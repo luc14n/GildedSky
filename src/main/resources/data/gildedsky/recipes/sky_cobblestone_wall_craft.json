@@ -1,0 +1,32 @@
+{
+  "group": "blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:sky_cobblestone"
+    },
+    "1": {
+      "item": "gildedsky:sky_cobblestone"
+    },
+    "2": {
+      "item": "gildedsky:sky_cobblestone"
+    },
+    "3": {
+      "item": "gildedsky:sky_cobblestone"
+    },
+    "4": {
+      "item": "gildedsky:sky_cobblestone"
+    },
+    "5": {
+      "item": "gildedsky:sky_cobblestone"
+    }
+  },
+  "result": {
+    "item": "gildedsky:sky_cobblestone_wall",
+    "count": 6
+  }
+}

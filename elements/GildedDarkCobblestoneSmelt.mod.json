@@ -1,0 +1,20 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "smelting",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:GildedDarkCobblestone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:GildedDarkStone"
+    },
+    "name": "gilded_dark_cobblestone_smelt",
+    "namespace": "mod"
+  }
+}

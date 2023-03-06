@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "gildedsky:blocks/darkskysktonebricks",
+    "particle": "gildedsky:blocks/darkskysktonebricks"
+  },
+  "render_type": "cutout_mipped"
+}

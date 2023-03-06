@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "blocks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GildedDarkStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GildedDarkStone"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GildedDarkStone"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStone"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GildedDarkStoneStair"
+    },
+    "name": "gilded_dark_stone_stair_craft_alt",
+    "namespace": "mod"
+  }
+}

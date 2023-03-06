@@ -1,0 +1,26 @@
+{
+  "group": "blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:sky_stone"
+    },
+    "1": {
+      "item": "gildedsky:sky_stone"
+    },
+    "2": {
+      "item": "gildedsky:sky_stone"
+    },
+    "3": {
+      "item": "gildedsky:sky_stone"
+    }
+  },
+  "result": {
+    "item": "gildedsky:sky_stone_bricks",
+    "count": 4
+  }
+}

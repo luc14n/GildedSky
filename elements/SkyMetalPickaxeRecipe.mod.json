@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      },
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      },
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SkyMetalPickaxe"
+    },
+    "name": "sky_metal_pickaxe_recipe",
+    "namespace": "mod"
+  }
+}

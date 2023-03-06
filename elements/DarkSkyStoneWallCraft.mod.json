@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "blocks",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkSkyStone"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStone"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStone"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStone"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStone"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkSkyStoneWall"
+    },
+    "name": "dark_sky_stone_wall_craft",
+    "namespace": "mod"
+  }
+}

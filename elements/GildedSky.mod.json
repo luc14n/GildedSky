@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "Gilded Sky",
+    "icon": {
+      "value": "CUSTOM:SkyStoneBricks"
+    },
+    "showSearch": false
+  }
+}

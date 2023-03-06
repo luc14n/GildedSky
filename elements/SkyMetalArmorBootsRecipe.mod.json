@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      },
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SkyMetalIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SkyMetalArmor.boots"
+    },
+    "name": "sky_metal_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

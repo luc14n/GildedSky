@@ -1,0 +1,1264 @@
+{
+  "mod_elements": [
+    {
+      "name": "GildedStone",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStone",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestone",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestone",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStone",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStone",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestone",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestone",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBricks",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_bricks",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBricks",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_bricks",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBricks",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_bricks",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBricks",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_bricks",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedSky",
+      "type": "tab",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_sky",
+      "path": "~/GUI"
+    },
+    {
+      "name": "SkyStoneBrickSlab",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickSlab",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickStair",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickStair",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickWall",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickWall",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickSlab",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickStair",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickWall",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickSlab",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickStair",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickWall",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneSlab",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneSlab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneStair",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneStair",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneWall",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneWall",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneSlab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneStair",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneWall",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneSlab",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneStair",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneWall",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneSlab",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneStair",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneWall",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneSlab",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneStair",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneWall",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneSlab",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneStair",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneWall",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneSlab",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_slab",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneStair",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_stair",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneWall",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_wall",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyMetalIngot",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_ingot",
+      "path": "~/Blocks/Materials"
+    },
+    {
+      "name": "SkyMetalOre",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_ore",
+      "path": "~/Blocks/Ores"
+    },
+    {
+      "name": "SkyMetalBlock",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_block",
+      "path": "~/Blocks/Materials"
+    },
+    {
+      "name": "SkyMetalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_ore_block_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_block_ore_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalOreSmelting",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_ore_smelting",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalPickaxe",
+      "type": "tool",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_pickaxe",
+      "path": "~/Items"
+    },
+    {
+      "name": "SkyMetalAxe",
+      "type": "tool",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_axe",
+      "path": "~/Items"
+    },
+    {
+      "name": "SkyMetalSword",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_sword",
+      "path": "~/Items"
+    },
+    {
+      "name": "SkyMetalShovel",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_shovel",
+      "path": "~/Items"
+    },
+    {
+      "name": "SkyMetalHoe",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_hoe",
+      "path": "~/Items"
+    },
+    {
+      "name": "SkyMetalPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_pickaxe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalAxeRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_axe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalSwordRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_sword_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalShovelRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_shovel_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalHoeRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_hoe_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalArmor",
+      "type": "armor",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "SkyMetalArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_armor_helmet_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_armor_body_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_armor_leggings_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyMetalArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_metal_armor_boots_recipe",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "SkyCobblestoneSmelt",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_smelt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneSmelt",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_smelt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneSmelt",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_smelt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickCraft",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickCraft",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickCraft",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickCraft",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickSlabCraft",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickStairCraft",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickStairCraftAlt",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneWallCraft",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneBrickWallCraft",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_brick_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneSlabCraft",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneStairCraft",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneWallCraft",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneSlabCraft",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneStairCraft",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyStoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_stone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "DarkSkyCobblestoneSmelt",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_sky_cobblestone_smelt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneSlabCraft",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneStairCraft",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedCobblestoneWallCraft",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_cobblestone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneSlabCraft",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneStairCraft",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkCobblestoneWallCraft",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_cobblestone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickSlabCraft",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickStairCraft",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickStairCraftAlt",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneBrickWallCraft",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_brick_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneSlabCraft",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneStairCraft",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedDarkStoneWallCraft",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_dark_stone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickSlabCraft",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickStairCraft",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickStairCraftAlt",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickWallCraft",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneSlabCraft",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneStairCraft",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneWallCraft",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneSlabCraft",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneStairCraft",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneWallCraft",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickSlabCraft",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickStairCraft",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickStairCraftAlt",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickWallCraft",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_wall_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneSlabCraft",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_slab_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneStairCraft",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_stair_craft",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneStairCraftAlt",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_stair_craft_alt",
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneWallCraft",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_wall_craft",
+      "path": "~/Blocks/Stones"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.gildedsky.gilded_dark_cobblestone": "Gilded Dark Cobblestone",
+      "item.gildedsky.sky_metal_pickaxe": "SkyMetal Pickaxe",
+      "item.gildedsky.sky_metal_armor_helmet": "SkyMetal Helmet",
+      "item.gildedsky.sky_metal_armor_boots": "SkyMetal Boots",
+      "block.gildedsky.gilded_dark_stone_brick_slab": "Gilded Dark Stone",
+      "itemGroup.tabgilded_sky": "Gilded Sky",
+      "block.gildedsky.gilded_dark_stone_brick_wall": "Gilded Dark Stone",
+      "block.gildedsky.sky_cobblestone_slab": "Gilded Cobblestone",
+      "block.gildedsky.gilded_cobblestone": "Gilded Cobblestone",
+      "block.gildedsky.gilded_stone_brick_wall": "Gilded Stone",
+      "item.gildedsky.sky_metal_ingot": "SkyMetal",
+      "block.gildedsky.sky_stone_bricks": "Gilded Stone",
+      "item.gildedsky.sky_metal_armor_chestplate": "SkyMetal Chestplate",
+      "block.gildedsky.dark_sky_cobblestone_wall": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_stone_brick_stair": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_stone_slab": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_stone_brick_slab": "Gilded Dark Stone",
+      "block.gildedsky.gilded_stone_brick_slab": "Gilded Stone",
+      "block.gildedsky.gilded_stone_brick_stair": "Gilded Stone",
+      "block.gildedsky.gilded_dark_cobblestone_slab": "Gilded Dark Cobblestone",
+      "block.gildedsky.sky_metal_ore": "SkyMetal Ore",
+      "item.gildedsky.sky_metal_hoe": "SkyMetal Hoe",
+      "block.gildedsky.dark_sky_stone_wall": "Gilded Dark Stone",
+      "block.gildedsky.gilded_dark_cobblestone_wall": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_stone_brick_wall": "Gilded Dark Stone",
+      "block.gildedsky.gilded_stone": "Gilded Stone",
+      "block.gildedsky.sky_cobblestone": "Gilded Cobblestone",
+      "block.gildedsky.dark_sky_stone_stair": "Gilded Dark Stone",
+      "block.gildedsky.gilded_cobblestone_wall": "Gilded Cobblestone",
+      "block.gildedsky.gilded_dark_stone": "Gilded Dark Stone",
+      "item.gildedsky.sky_metal_shovel": "SkyMetal Shovel",
+      "block.gildedsky.gilded_cobblestone_slab": "Gilded Cobblestone",
+      "item.gildedsky.sky_metal_armor_leggings": "SkyMetal Leggings",
+      "block.gildedsky.gilded_stone_wall": "Gilded Stone",
+      "block.gildedsky.sky_stone_slab": "Gilded Stone",
+      "item.gildedsky.sky_metal_sword": "SkyMetal Sword",
+      "block.gildedsky.sky_stone_brick_wall": "Gilded Stone",
+      "block.gildedsky.gilded_dark_stone_wall": "Gilded Dark Stone",
+      "block.gildedsky.gilded_dark_cobblestone_stair": "Gilded Dark Cobblestone",
+      "block.gildedsky.sky_stone": "Gilded Stone",
+      "block.gildedsky.gilded_stone_stair": "Gilded Stone",
+      "block.gildedsky.sky_stone_brick_stair": "Gilded Stone",
+      "block.gildedsky.gilded_cobblestone_stair": "Gilded Cobblestone",
+      "block.gildedsky.sky_stone_brick_slab": "Gilded Stone",
+      "block.gildedsky.gilded_dark_stone_slab": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_cobblestone_stair": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_cobblestone_slab": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_stone": "Gilded Dark Stone",
+      "block.gildedsky.gilded_dark_stone_stair": "Gilded Dark Stone",
+      "block.gildedsky.sky_cobblestone_stair": "Gilded Cobblestone",
+      "block.gildedsky.gilded_dark_stone_brick_stair": "Gilded Dark Stone",
+      "block.gildedsky.sky_stone_stair": "Gilded Stone",
+      "block.gildedsky.gilded_dark_stone_bricks": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_stone_bricks": "Gilded Dark Stone",
+      "block.gildedsky.sky_cobblestone_wall": "Gilded Cobblestone",
+      "item.gildedsky.sky_metal_axe": "SkyMetal Axe",
+      "block.gildedsky.dark_sky_cobblestone": "Gilded Dark Cobblestone",
+      "block.gildedsky.gilded_stone_bricks": "Gilded Stone",
+      "block.gildedsky.sky_stone_wall": "Gilded Stone",
+      "block.gildedsky.gilded_stone_slab": "Gilded Stone",
+      "block.gildedsky.sky_metal_block": "Block of SkyMetal"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": [
+          {
+            "name": "Stones",
+            "children": []
+          },
+          {
+            "name": "Ores",
+            "children": []
+          },
+          {
+            "name": "Materials",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "gildedsky",
+    "modName": "GildedSky",
+    "version": "1.0.0",
+    "author": "Hubblegamer",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.gildedsky",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

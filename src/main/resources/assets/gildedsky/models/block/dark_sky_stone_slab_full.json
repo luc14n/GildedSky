@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "gildedsky:blocks/darkskystone",
+    "top": "gildedsky:blocks/darkskystone",
+    "side": "gildedsky:blocks/darkskystone"
+  },
+  "render_type": "cutout_mipped"
+}
