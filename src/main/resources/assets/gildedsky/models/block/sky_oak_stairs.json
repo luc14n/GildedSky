@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "gildedsky:blocks/skyoak_planks",
+    "top": "gildedsky:blocks/skyoak_planks",
+    "side": "gildedsky:blocks/skyoak_planks"
+  },
+  "render_type": "solid"
+}

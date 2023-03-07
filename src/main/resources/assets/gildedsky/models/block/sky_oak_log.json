@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gildedsky:blocks/skyoak_log_top",
+    "up": "gildedsky:blocks/skyoak_log_top",
+    "north": "gildedsky:blocks/skyoak_log_side",
+    "east": "gildedsky:blocks/skyoak_log_side",
+    "south": "gildedsky:blocks/skyoak_log_side",
+    "west": "gildedsky:blocks/skyoak_log_side",
+    "particle": "gildedsky:blocks/skyoak_log_top"
+  },
+  "render_type": "solid"
+}

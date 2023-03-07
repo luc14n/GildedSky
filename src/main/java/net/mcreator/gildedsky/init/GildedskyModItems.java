@@ -84,6 +84,16 @@ public class GildedskyModItems {
 	public static final RegistryObject<Item> SKY_METAL_ARMOR_CHESTPLATE = REGISTRY.register("sky_metal_armor_chestplate", () -> new SkyMetalArmorItem.Chestplate());
 	public static final RegistryObject<Item> SKY_METAL_ARMOR_LEGGINGS = REGISTRY.register("sky_metal_armor_leggings", () -> new SkyMetalArmorItem.Leggings());
 	public static final RegistryObject<Item> SKY_METAL_ARMOR_BOOTS = REGISTRY.register("sky_metal_armor_boots", () -> new SkyMetalArmorItem.Boots());
+	public static final RegistryObject<Item> SKY_OAK_WOOD = block(GildedskyModBlocks.SKY_OAK_WOOD, GildedskyModTabs.TAB_GILDED_SKY);
+	public static final RegistryObject<Item> SKY_OAK_LOG = block(GildedskyModBlocks.SKY_OAK_LOG, GildedskyModTabs.TAB_GILDED_SKY);
+	public static final RegistryObject<Item> SKY_OAK_PLANKS = block(GildedskyModBlocks.SKY_OAK_PLANKS, GildedskyModTabs.TAB_GILDED_SKY);
+	public static final RegistryObject<Item> SKY_OAK_LEAVES = block(GildedskyModBlocks.SKY_OAK_LEAVES, CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> SKY_OAK_STAIRS = block(GildedskyModBlocks.SKY_OAK_STAIRS, GildedskyModTabs.TAB_GILDED_SKY);
+	public static final RegistryObject<Item> SKY_OAK_SLAB = block(GildedskyModBlocks.SKY_OAK_SLAB, GildedskyModTabs.TAB_GILDED_SKY);
+	public static final RegistryObject<Item> SKY_OAK_FENCE = block(GildedskyModBlocks.SKY_OAK_FENCE, CreativeModeTab.TAB_DECORATIONS);
+	public static final RegistryObject<Item> SKY_OAK_FENCE_GATE = block(GildedskyModBlocks.SKY_OAK_FENCE_GATE, CreativeModeTab.TAB_REDSTONE);
+	public static final RegistryObject<Item> SKY_OAK_PRESSURE_PLATE = block(GildedskyModBlocks.SKY_OAK_PRESSURE_PLATE, CreativeModeTab.TAB_REDSTONE);
+	public static final RegistryObject<Item> SKY_OAK_BUTTON = block(GildedskyModBlocks.SKY_OAK_BUTTON, GildedskyModTabs.TAB_GILDED_SKY);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

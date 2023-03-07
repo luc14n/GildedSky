@@ -1,0 +1,21 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SkyOakWood"
+      },
+      {
+        "value": "CUSTOM:SkyOakLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "skyoak_log",
+    "namespace": "forge"
+  }
+}
