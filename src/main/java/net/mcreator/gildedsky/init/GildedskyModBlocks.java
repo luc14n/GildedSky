@@ -70,8 +70,7 @@ public class GildedskyModBlocks {
 	public static final RegistryObject<Block> SKY_STONE_WALL = REGISTRY.register("sky_stone_wall", () -> new SkyStoneWallBlock());
 	public static final RegistryObject<Block> SKY_COBBLESTONE = REGISTRY.register("sky_cobblestone", () -> new SkyCobblestoneBlock());
 	public static final RegistryObject<Block> SKY_COBBLESTONE_SLAB = REGISTRY.register("sky_cobblestone_slab", () -> new SkyCobblestoneSlabBlock());
-	public static final RegistryObject<Block> SKY_COBBLESTONE_STAIR = REGISTRY.register("sky_cobblestone_stair",
-			() -> new SkyCobblestoneStairBlock());
+	public static final RegistryObject<Block> SKY_COBBLESTONE_STAIR = REGISTRY.register("sky_cobblestone_stair", () -> new SkyCobblestoneStairBlock());
 	public static final RegistryObject<Block> SKY_COBBLESTONE_WALL = REGISTRY.register("sky_cobblestone_wall", () -> new SkyCobblestoneWallBlock());
 	public static final RegistryObject<Block> SKY_STONE_BRICKS = REGISTRY.register("sky_stone_bricks", () -> new SkyStoneBricksBlock());
 	public static final RegistryObject<Block> SKY_STONE_BRICK_SLAB = REGISTRY.register("sky_stone_brick_slab", () -> new SkyStoneBrickSlabBlock());
@@ -82,60 +81,37 @@ public class GildedskyModBlocks {
 	public static final RegistryObject<Block> DARK_SKY_STONE_STAIR = REGISTRY.register("dark_sky_stone_stair", () -> new DarkSkyStoneStairBlock());
 	public static final RegistryObject<Block> DARK_SKY_STONE_WALL = REGISTRY.register("dark_sky_stone_wall", () -> new DarkSkyStoneWallBlock());
 	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE = REGISTRY.register("dark_sky_cobblestone", () -> new DarkSkyCobblestoneBlock());
-	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE_SLAB = REGISTRY.register("dark_sky_cobblestone_slab",
-			() -> new DarkSkyCobblestoneSlabBlock());
-	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE_STAIR = REGISTRY.register("dark_sky_cobblestone_stair",
-			() -> new DarkSkyCobblestoneStairBlock());
-	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE_WALL = REGISTRY.register("dark_sky_cobblestone_wall",
-			() -> new DarkSkyCobblestoneWallBlock());
+	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE_SLAB = REGISTRY.register("dark_sky_cobblestone_slab", () -> new DarkSkyCobblestoneSlabBlock());
+	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE_STAIR = REGISTRY.register("dark_sky_cobblestone_stair", () -> new DarkSkyCobblestoneStairBlock());
+	public static final RegistryObject<Block> DARK_SKY_COBBLESTONE_WALL = REGISTRY.register("dark_sky_cobblestone_wall", () -> new DarkSkyCobblestoneWallBlock());
 	public static final RegistryObject<Block> DARK_SKY_STONE_BRICKS = REGISTRY.register("dark_sky_stone_bricks", () -> new DarkSkyStoneBricksBlock());
-	public static final RegistryObject<Block> DARK_SKY_STONE_BRICK_SLAB = REGISTRY.register("dark_sky_stone_brick_slab",
-			() -> new DarkSkyStoneBrickSlabBlock());
-	public static final RegistryObject<Block> DARK_SKY_STONE_BRICK_STAIR = REGISTRY.register("dark_sky_stone_brick_stair",
-			() -> new DarkSkyStoneBrickStairBlock());
-	public static final RegistryObject<Block> DARK_SKY_STONE_BRICK_WALL = REGISTRY.register("dark_sky_stone_brick_wall",
-			() -> new DarkSkyStoneBrickWallBlock());
+	public static final RegistryObject<Block> DARK_SKY_STONE_BRICK_SLAB = REGISTRY.register("dark_sky_stone_brick_slab", () -> new DarkSkyStoneBrickSlabBlock());
+	public static final RegistryObject<Block> DARK_SKY_STONE_BRICK_STAIR = REGISTRY.register("dark_sky_stone_brick_stair", () -> new DarkSkyStoneBrickStairBlock());
+	public static final RegistryObject<Block> DARK_SKY_STONE_BRICK_WALL = REGISTRY.register("dark_sky_stone_brick_wall", () -> new DarkSkyStoneBrickWallBlock());
 	public static final RegistryObject<Block> GILDED_STONE = REGISTRY.register("gilded_stone", () -> new GildedStoneBlock());
 	public static final RegistryObject<Block> GILDED_STONE_SLAB = REGISTRY.register("gilded_stone_slab", () -> new GildedStoneSlabBlock());
 	public static final RegistryObject<Block> GILDED_STONE_STAIR = REGISTRY.register("gilded_stone_stair", () -> new GildedStoneStairBlock());
 	public static final RegistryObject<Block> GILDED_STONE_WALL = REGISTRY.register("gilded_stone_wall", () -> new GildedStoneWallBlock());
 	public static final RegistryObject<Block> GILDED_COBBLESTONE = REGISTRY.register("gilded_cobblestone", () -> new GildedCobblestoneBlock());
-	public static final RegistryObject<Block> GILDED_COBBLESTONE_SLAB = REGISTRY.register("gilded_cobblestone_slab",
-			() -> new GildedCobblestoneSlabBlock());
-	public static final RegistryObject<Block> GILDED_COBBLESTONE_WALL = REGISTRY.register("gilded_cobblestone_wall",
-			() -> new GildedCobblestoneWallBlock());
-	public static final RegistryObject<Block> GILDED_COBBLESTONE_STAIR = REGISTRY.register("gilded_cobblestone_stair",
-			() -> new GildedCobblestoneStairBlock());
+	public static final RegistryObject<Block> GILDED_COBBLESTONE_SLAB = REGISTRY.register("gilded_cobblestone_slab", () -> new GildedCobblestoneSlabBlock());
+	public static final RegistryObject<Block> GILDED_COBBLESTONE_WALL = REGISTRY.register("gilded_cobblestone_wall", () -> new GildedCobblestoneWallBlock());
+	public static final RegistryObject<Block> GILDED_COBBLESTONE_STAIR = REGISTRY.register("gilded_cobblestone_stair", () -> new GildedCobblestoneStairBlock());
 	public static final RegistryObject<Block> GILDED_STONE_BRICKS = REGISTRY.register("gilded_stone_bricks", () -> new GildedStoneBricksBlock());
-	public static final RegistryObject<Block> GILDED_STONE_BRICK_SLAB = REGISTRY.register("gilded_stone_brick_slab",
-			() -> new GildedStoneBrickSlabBlock());
-	public static final RegistryObject<Block> GILDED_STONE_BRICK_STAIR = REGISTRY.register("gilded_stone_brick_stair",
-			() -> new GildedStoneBrickStairBlock());
-	public static final RegistryObject<Block> GILDED_STONE_BRICK_WALL = REGISTRY.register("gilded_stone_brick_wall",
-			() -> new GildedStoneBrickWallBlock());
+	public static final RegistryObject<Block> GILDED_STONE_BRICK_SLAB = REGISTRY.register("gilded_stone_brick_slab", () -> new GildedStoneBrickSlabBlock());
+	public static final RegistryObject<Block> GILDED_STONE_BRICK_STAIR = REGISTRY.register("gilded_stone_brick_stair", () -> new GildedStoneBrickStairBlock());
+	public static final RegistryObject<Block> GILDED_STONE_BRICK_WALL = REGISTRY.register("gilded_stone_brick_wall", () -> new GildedStoneBrickWallBlock());
 	public static final RegistryObject<Block> GILDED_DARK_STONE = REGISTRY.register("gilded_dark_stone", () -> new GildedDarkStoneBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_SLAB = REGISTRY.register("gilded_dark_stone_slab",
-			() -> new GildedDarkStoneSlabBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_STAIR = REGISTRY.register("gilded_dark_stone_stair",
-			() -> new GildedDarkStoneStairBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_WALL = REGISTRY.register("gilded_dark_stone_wall",
-			() -> new GildedDarkStoneWallBlock());
-	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE = REGISTRY.register("gilded_dark_cobblestone",
-			() -> new GildedDarkCobblestoneBlock());
-	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE_SLAB = REGISTRY.register("gilded_dark_cobblestone_slab",
-			() -> new GildedDarkCobblestoneSlabBlock());
-	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE_STAIR = REGISTRY.register("gilded_dark_cobblestone_stair",
-			() -> new GildedDarkCobblestoneStairBlock());
-	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE_WALL = REGISTRY.register("gilded_dark_cobblestone_wall",
-			() -> new GildedDarkCobblestoneWallBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICKS = REGISTRY.register("gilded_dark_stone_bricks",
-			() -> new GildedDarkStoneBricksBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICK_SLAB = REGISTRY.register("gilded_dark_stone_brick_slab",
-			() -> new GildedDarkStoneBrickSlabBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICK_STAIR = REGISTRY.register("gilded_dark_stone_brick_stair",
-			() -> new GildedDarkStoneBrickStairBlock());
-	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICK_WALL = REGISTRY.register("gilded_dark_stone_brick_wall",
-			() -> new GildedDarkStoneBrickWallBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_SLAB = REGISTRY.register("gilded_dark_stone_slab", () -> new GildedDarkStoneSlabBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_STAIR = REGISTRY.register("gilded_dark_stone_stair", () -> new GildedDarkStoneStairBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_WALL = REGISTRY.register("gilded_dark_stone_wall", () -> new GildedDarkStoneWallBlock());
+	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE = REGISTRY.register("gilded_dark_cobblestone", () -> new GildedDarkCobblestoneBlock());
+	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE_SLAB = REGISTRY.register("gilded_dark_cobblestone_slab", () -> new GildedDarkCobblestoneSlabBlock());
+	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE_STAIR = REGISTRY.register("gilded_dark_cobblestone_stair", () -> new GildedDarkCobblestoneStairBlock());
+	public static final RegistryObject<Block> GILDED_DARK_COBBLESTONE_WALL = REGISTRY.register("gilded_dark_cobblestone_wall", () -> new GildedDarkCobblestoneWallBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICKS = REGISTRY.register("gilded_dark_stone_bricks", () -> new GildedDarkStoneBricksBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICK_SLAB = REGISTRY.register("gilded_dark_stone_brick_slab", () -> new GildedDarkStoneBrickSlabBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICK_STAIR = REGISTRY.register("gilded_dark_stone_brick_stair", () -> new GildedDarkStoneBrickStairBlock());
+	public static final RegistryObject<Block> GILDED_DARK_STONE_BRICK_WALL = REGISTRY.register("gilded_dark_stone_brick_wall", () -> new GildedDarkStoneBrickWallBlock());
 	public static final RegistryObject<Block> SKY_METAL_ORE = REGISTRY.register("sky_metal_ore", () -> new SkyMetalOreBlock());
 	public static final RegistryObject<Block> SKY_METAL_BLOCK = REGISTRY.register("sky_metal_block", () -> new SkyMetalBlockBlock());
 }

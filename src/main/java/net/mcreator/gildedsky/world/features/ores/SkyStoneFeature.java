@@ -34,14 +34,10 @@ public class SkyStoneFeature extends OreFeature {
 	public static Feature<?> feature() {
 		FEATURE = new SkyStoneFeature();
 		CONFIGURED_FEATURE = FeatureUtils.register("gildedsky:sky_stone", FEATURE,
-				new OreConfiguration(List.of(
-						OreConfiguration.target(new BlockStateMatchTest(Blocks.STONE.defaultBlockState()),
-								GildedskyModBlocks.SKY_STONE.get().defaultBlockState()),
-						OreConfiguration.target(new BlockStateMatchTest(Blocks.DEEPSLATE.defaultBlockState()),
-								GildedskyModBlocks.SKY_STONE.get().defaultBlockState())),
-						16));
-		PLACED_FEATURE = PlacementUtils.register("gildedsky:sky_stone", CONFIGURED_FEATURE, List.of(CountPlacement.of(2), InSquarePlacement.spread(),
-				HeightRangePlacement.uniform(VerticalAnchor.absolute(0), VerticalAnchor.absolute(64)), BiomeFilter.biome()));
+				new OreConfiguration(List.of(OreConfiguration.target(new BlockStateMatchTest(Blocks.STONE.defaultBlockState()), GildedskyModBlocks.SKY_STONE.get().defaultBlockState()),
+						OreConfiguration.target(new BlockStateMatchTest(Blocks.DEEPSLATE.defaultBlockState()), GildedskyModBlocks.SKY_STONE.get().defaultBlockState())), 16));
+		PLACED_FEATURE = PlacementUtils.register("gildedsky:sky_stone", CONFIGURED_FEATURE,
+				List.of(CountPlacement.of(2), InSquarePlacement.spread(), HeightRangePlacement.uniform(VerticalAnchor.absolute(0), VerticalAnchor.absolute(64)), BiomeFilter.biome()));
 		return FEATURE;
 	}
 
