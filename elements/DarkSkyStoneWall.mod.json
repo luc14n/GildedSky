@@ -21,7 +21,7 @@
     "isItemTinted": false,
     "hasTransparency": false,
     "connectedSides": false,
-    "transparencyType": "CUTOUT_MIPPED",
+    "transparencyType": "SOLID",
     "disableOffset": false,
     "boundingBoxes": [
       {
@@ -34,7 +34,7 @@
         "subtract": false
       }
     ],
-    "name": "Gilded Dark Stone",
+    "name": "Dark Sky Stone Wall",
     "specialInfo": [],
     "hardness": 1.5,
     "resistance": 6.0,

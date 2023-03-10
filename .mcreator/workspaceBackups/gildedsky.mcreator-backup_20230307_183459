@@ -983,7 +983,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_ore_block_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalBlockOreRecipe",
@@ -997,7 +997,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_block_ore_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalOreSmelting",
@@ -1011,7 +1011,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_ore_smelting.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Furnace"
     },
     {
       "name": "SkyMetalPickaxe",
@@ -1100,7 +1100,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_pickaxe_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalAxeRecipe",
@@ -1114,7 +1114,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_axe_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalSwordRecipe",
@@ -1128,7 +1128,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_sword_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalShovelRecipe",
@@ -1142,7 +1142,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_shovel_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalHoeRecipe",
@@ -1156,7 +1156,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_hoe_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalArmor",
@@ -1192,7 +1192,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_armor_helmet_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalArmorBodyRecipe",
@@ -1206,7 +1206,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_armor_body_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalArmorLeggingsRecipe",
@@ -1220,7 +1220,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_armor_leggings_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyMetalArmorBootsRecipe",
@@ -1234,7 +1234,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_metal_armor_boots_recipe.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyCobblestoneSmelt",
@@ -1248,7 +1248,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_cobblestone_smelt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Furnace"
     },
     {
       "name": "GildedDarkCobblestoneSmelt",
@@ -1262,7 +1262,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_cobblestone_smelt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Furnace"
     },
     {
       "name": "GildedCobblestoneSmelt",
@@ -1276,7 +1276,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_cobblestone_smelt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Furnace"
     },
     {
       "name": "DarkSkyStoneBrickCraft",
@@ -1290,7 +1290,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_brick_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneBrickCraft",
@@ -1304,7 +1304,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_brick_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneBrickCraft",
@@ -1318,7 +1318,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_brick_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneBrickCraft",
@@ -1332,7 +1332,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_brick_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneBrickSlabCraft",
@@ -1346,7 +1346,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_brick_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneBrickStairCraft",
@@ -1360,7 +1360,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_brick_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneBrickStairCraftAlt",
@@ -1374,7 +1374,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_brick_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneWallCraft",
@@ -1388,7 +1388,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneBrickWallCraft",
@@ -1402,7 +1402,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_brick_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyCobblestoneSlabCraft",
@@ -1416,7 +1416,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_cobblestone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyCobblestoneStairCraft",
@@ -1430,7 +1430,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_cobblestone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyCobblestoneStairCraftAlt",
@@ -1444,7 +1444,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_cobblestone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyCobblestoneWallCraft",
@@ -1458,7 +1458,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_cobblestone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneSlabCraft",
@@ -1472,7 +1472,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneStairCraft",
@@ -1486,7 +1486,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyStoneStairCraftAlt",
@@ -1500,7 +1500,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_stone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "DarkSkyCobblestoneSmelt",
@@ -1514,7 +1514,7 @@
           "src/main/resources/data/gildedsky/recipes/dark_sky_cobblestone_smelt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Furnace"
     },
     {
       "name": "GildedCobblestoneSlabCraft",
@@ -1528,7 +1528,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_cobblestone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedCobblestoneStairCraft",
@@ -1542,7 +1542,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_cobblestone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedCobblestoneStairCraftAlt",
@@ -1556,7 +1556,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_cobblestone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedCobblestoneWallCraft",
@@ -1570,7 +1570,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_cobblestone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkCobblestoneSlabCraft",
@@ -1584,7 +1584,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_cobblestone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkCobblestoneStairCraft",
@@ -1598,7 +1598,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_cobblestone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkCobblestoneStairCraftAlt",
@@ -1612,7 +1612,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_cobblestone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkCobblestoneWallCraft",
@@ -1626,7 +1626,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_cobblestone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneBrickSlabCraft",
@@ -1640,7 +1640,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_brick_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneBrickStairCraft",
@@ -1654,7 +1654,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_brick_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneBrickStairCraftAlt",
@@ -1668,7 +1668,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_brick_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneBrickWallCraft",
@@ -1682,7 +1682,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_brick_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneSlabCraft",
@@ -1696,7 +1696,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneStairCraft",
@@ -1710,7 +1710,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneStairCraftAlt",
@@ -1724,7 +1724,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedDarkStoneWallCraft",
@@ -1738,7 +1738,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_dark_stone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneBrickSlabCraft",
@@ -1752,7 +1752,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_brick_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneBrickStairCraft",
@@ -1766,7 +1766,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_brick_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneBrickStairCraftAlt",
@@ -1780,7 +1780,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_brick_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneBrickWallCraft",
@@ -1794,7 +1794,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_brick_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneSlabCraft",
@@ -1808,7 +1808,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneStairCraft",
@@ -1822,7 +1822,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneStairCraftAlt",
@@ -1836,7 +1836,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "GildedStoneWallCraft",
@@ -1850,7 +1850,7 @@
           "src/main/resources/data/gildedsky/recipes/gilded_stone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyCobblestoneSlabCraft",
@@ -1864,7 +1864,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_cobblestone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyCobblestoneStairCraft",
@@ -1878,7 +1878,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_cobblestone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyCobblestoneStairCraftAlt",
@@ -1892,7 +1892,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_cobblestone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyCobblestoneWallCraft",
@@ -1906,7 +1906,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_cobblestone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneBrickSlabCraft",
@@ -1920,7 +1920,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_brick_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneBrickStairCraft",
@@ -1934,7 +1934,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_brick_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneBrickStairCraftAlt",
@@ -1948,7 +1948,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_brick_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneBrickWallCraft",
@@ -1962,7 +1962,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_brick_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneSlabCraft",
@@ -1976,7 +1976,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_slab_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneStairCraft",
@@ -1990,7 +1990,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_stair_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneStairCraftAlt",
@@ -2004,7 +2004,7 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_stair_craft_alt.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
     },
     {
       "name": "SkyStoneWallCraft",
@@ -2018,7 +2018,566 @@
           "src/main/resources/data/gildedsky/recipes/sky_stone_wall_craft.json"
         ]
       },
-      "path": "~/Recipes"
+      "path": "~/Recipes/Crafting Table"
+    },
+    {
+      "name": "SkyStoneBricksCS1",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_bricks_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_bricks_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBricksCS2",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_bricks_cs_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_bricks_cs_2.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBricksCS3",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_bricks_cs_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_bricks_cs_3.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickSlabCS1",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_slab_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_brick_slab_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickStairCS1",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_stair_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_brick_stair_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneBrickWallCS1",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_brick_wall_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_brick_wall_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneSlabCS1",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_slab_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_slab_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneStairCS1",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_stair_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_stair_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneWallCS1",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_wall_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_wall_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneCS1",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneCS2",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_cs_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_cs_2.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyStoneCS3",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_stone_cs_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_stone_cs_3.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneCS1",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_cobblestone_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneCS2",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_cs_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_cobblestone_cs_2.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneStairCS1",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_stair_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_cobblestone_stair_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyCobblestoneWallCS1",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_cobblestone_wall_cs_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_cobblestone_wall_cs_1.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "GildedStoneBrickStairSC",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gilded_stone_brick_stair_sc",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/gilded_stone_brick_stair_sc.json"
+        ]
+      },
+      "path": "~/Blocks/Stones"
+    },
+    {
+      "name": "SkyOakWood",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_wood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_wood.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_wood.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakWoodBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_wood.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakLog",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_log.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_log.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakLogBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_log.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakPlanks",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_planks",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakPlanksBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_planks.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_planks.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_planks.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakLeaves",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_leaves.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakLeavesBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_leaves.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_leaves.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakStairs",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_stairs.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_stairs.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_stairs_inner.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakStairsBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_stairs_outer.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_stairs.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakSlab",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_slab",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_slab_top.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_slab_full.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_slab.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakFence",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_fence",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence_inventory.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence_post.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_fence.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakFenceBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_fence.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakFenceGate",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_fence_gate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakFenceGateBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence_gate.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence_gate_open.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence_gate_wall.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_fence_gate.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_fence_gate_wall_open.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_fence_gate.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakPressurePlate",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_pressure_plate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_pressure_plate.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakPressurePlateBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_pressure_plate.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_pressure_plate.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_pressure_plate_down.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakButton",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_button",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_button_inventory.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_oak_button.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyOakButtonBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_button_pressed.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_oak_button.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_oak_button.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakItemsTag",
+      "type": "tag",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_items_tag",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/skyoak_log.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakWoodRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_wood_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_wood_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_planks_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_planks_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakStairsRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_stairs_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_stairs_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakSlabRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_slab_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_slab_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakFenceRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_fence_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_fence_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_fence_gate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_fence_gate_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_pressure_plate_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_pressure_plate_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakButtonRecipe",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_button_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_button_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
+    },
+    {
+      "name": "SkyOakStickRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sky_oak_stick_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/gildedsky/recipes/sky_oak_stick_recipe.json"
+        ]
+      },
+      "path": "~/Blocks"
     }
   ],
   "variable_elements": [],
@@ -2028,26 +2587,33 @@
       "block.gildedsky.gilded_dark_cobblestone": "Gilded Dark Cobblestone",
       "item.gildedsky.sky_metal_pickaxe": "SkyMetal Pickaxe",
       "item.gildedsky.sky_metal_armor_helmet": "SkyMetal Helmet",
+      "block.gildedsky.sky_oak_pressure_plate": "SkyOak Pressure Plate",
       "item.gildedsky.sky_metal_armor_boots": "SkyMetal Boots",
       "block.gildedsky.gilded_dark_stone_brick_slab": "Gilded Dark Stone",
       "itemGroup.tabgilded_sky": "Gilded Sky",
-      "block.gildedsky.gilded_dark_stone_brick_wall": "Gilded Dark Stone",
       "block.gildedsky.sky_cobblestone_slab": "Gilded Cobblestone",
-      "block.gildedsky.gilded_cobblestone": "Gilded Cobblestone",
-      "block.gildedsky.gilded_stone_brick_wall": "Gilded Stone",
+      "block.gildedsky.gilded_dark_stone_brick_wall": "Gilded Dark Stone",
       "item.gildedsky.sky_metal_ingot": "SkyMetal",
+      "block.gildedsky.gilded_stone_brick_wall": "Gilded Stone",
+      "block.gildedsky.gilded_cobblestone": "Gilded Cobblestone",
       "block.gildedsky.sky_stone_bricks": "Gilded Stone",
+      "block.gildedsky.sky_oak_log": "SkyOak Log",
       "item.gildedsky.sky_metal_armor_chestplate": "SkyMetal Chestplate",
-      "block.gildedsky.dark_sky_cobblestone_wall": "Gilded Dark Cobblestone",
       "block.gildedsky.dark_sky_stone_brick_stair": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_cobblestone_wall": "Dark Sky Cobblestone Wall",
       "block.gildedsky.dark_sky_stone_slab": "Gilded Dark Stone",
-      "block.gildedsky.dark_sky_stone_brick_slab": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_stone_brick_slab": "Dark Sky Stone Brick Slab",
+      "block.gildedsky.sky_oak_slab": "SkyOak Slab",
       "block.gildedsky.gilded_stone_brick_slab": "Gilded Stone",
       "block.gildedsky.gilded_stone_brick_stair": "Gilded Stone",
       "block.gildedsky.gilded_dark_cobblestone_slab": "Gilded Dark Cobblestone",
+      "block.gildedsky.sky_oak_wood": "SkyOak Wood",
       "block.gildedsky.sky_metal_ore": "SkyMetal Ore",
       "item.gildedsky.sky_metal_hoe": "SkyMetal Hoe",
+      "block.gildedsky.sky_oak_button": "SkyOak Button",
       "block.gildedsky.dark_sky_stone_wall": "Gilded Dark Stone",
+      "block.gildedsky.sky_oak_stairs": "SkyOak Stairs",
+      "block.gildedsky.sky_oak_planks": "SkyOak Planks",
       "block.gildedsky.gilded_dark_cobblestone_wall": "Gilded Dark Cobblestone",
       "block.gildedsky.dark_sky_stone_brick_wall": "Gilded Dark Stone",
       "block.gildedsky.gilded_stone": "Gilded Stone",
@@ -2056,10 +2622,12 @@
       "block.gildedsky.gilded_cobblestone_wall": "Gilded Cobblestone",
       "block.gildedsky.gilded_dark_stone": "Gilded Dark Stone",
       "item.gildedsky.sky_metal_shovel": "SkyMetal Shovel",
+      "block.gildedsky.sky_oak_fence_gate": "SkyOak Fence Gate",
       "block.gildedsky.gilded_cobblestone_slab": "Gilded Cobblestone",
       "item.gildedsky.sky_metal_armor_leggings": "SkyMetal Leggings",
       "block.gildedsky.gilded_stone_wall": "Gilded Stone",
       "block.gildedsky.sky_stone_slab": "Gilded Stone",
+      "block.gildedsky.sky_oak_leaves": "SkyOak Leaves",
       "item.gildedsky.sky_metal_sword": "SkyMetal Sword",
       "block.gildedsky.sky_stone_brick_wall": "Gilded Stone",
       "block.gildedsky.gilded_dark_stone_wall": "Gilded Dark Stone",
@@ -2070,9 +2638,9 @@
       "block.gildedsky.gilded_cobblestone_stair": "Gilded Cobblestone",
       "block.gildedsky.sky_stone_brick_slab": "Gilded Stone",
       "block.gildedsky.gilded_dark_stone_slab": "Gilded Dark Stone",
-      "block.gildedsky.dark_sky_cobblestone_stair": "Gilded Dark Cobblestone",
-      "block.gildedsky.dark_sky_cobblestone_slab": "Gilded Dark Cobblestone",
-      "block.gildedsky.dark_sky_stone": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_cobblestone_stair": "Gilded Dark Cobblestone Stair",
+      "block.gildedsky.dark_sky_cobblestone_slab": "Dark Sky Cobblestone Slab",
+      "block.gildedsky.dark_sky_stone": "Dark Sky Stone",
       "block.gildedsky.gilded_dark_stone_stair": "Gilded Dark Stone",
       "block.gildedsky.sky_cobblestone_stair": "Gilded Cobblestone",
       "block.gildedsky.gilded_dark_stone_brick_stair": "Gilded Dark Stone",
@@ -2081,7 +2649,8 @@
       "block.gildedsky.dark_sky_stone_bricks": "Gilded Dark Stone",
       "block.gildedsky.sky_cobblestone_wall": "Gilded Cobblestone",
       "item.gildedsky.sky_metal_axe": "SkyMetal Axe",
-      "block.gildedsky.dark_sky_cobblestone": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_cobblestone": "Dark Sky Cobblestone",
+      "block.gildedsky.sky_oak_fence": "SkyOak Fence",
       "block.gildedsky.gilded_stone_bricks": "Gilded Stone",
       "block.gildedsky.sky_stone_wall": "Gilded Stone",
       "block.gildedsky.gilded_stone_slab": "Gilded Stone",
@@ -2114,7 +2683,20 @@
       },
       {
         "name": "Recipes",
-        "children": []
+        "children": [
+          {
+            "name": "Crafting Table",
+            "children": []
+          },
+          {
+            "name": "Stone Cutter",
+            "children": []
+          },
+          {
+            "name": "Furnace",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Items",

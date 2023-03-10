@@ -1,0 +1,51 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SkyStoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:GildedStoneBrickWall"
+      },
+      {
+        "value": "CUSTOM:SkyStoneWall"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStoneWall"
+      },
+      {
+        "value": "CUSTOM:SkyCobblestoneWall"
+      },
+      {
+        "value": "CUSTOM:DarkSkyCobblestoneWall"
+      },
+      {
+        "value": "CUSTOM:GildedStoneWall"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStoneWall"
+      },
+      {
+        "value": "CUSTOM:GildedCobblestoneWall"
+      },
+      {
+        "value": "CUSTOM:GildedDarkCobblestoneWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "new_walls",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SkyStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:GildedStoneBrickSlab"
+      },
+      {
+        "value": "CUSTOM:SkyStoneSlab"
+      },
+      {
+        "value": "CUSTOM:DarkSkyStoneSlab"
+      },
+      {
+        "value": "CUSTOM:SkyCobblestoneSlab"
+      },
+      {
+        "value": "CUSTOM:DarkSkyCobblestoneSlab"
+      },
+      {
+        "value": "CUSTOM:GildedStoneSlab"
+      },
+      {
+        "value": "CUSTOM:GildedDarkStoneSlab"
+      },
+      {
+        "value": "CUSTOM:GildedCobblestoneSlab"
+      },
+      {
+        "value": "CUSTOM:GildedDarkCobblestoneSlab"
+      },
+      {
+        "value": "CUSTOM:SkyOakSlab"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "slabs",
+    "namespace": "minecraft"
+  }
+}
