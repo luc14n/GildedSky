@@ -21,17 +21,17 @@ public abstract class SkyMetalArmorItem extends ArmorItem {
 		super(new ArmorMaterial() {
 			@Override
 			public int getDurabilityForSlot(EquipmentSlot slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 23;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 18;
 			}
 
 			@Override
 			public int getDefenseForSlot(EquipmentSlot slot) {
-				return new int[]{3, 9, 8, 3}[slot.getIndex()];
+				return new int[]{2, 7, 6, 2}[slot.getIndex()];
 			}
 
 			@Override
 			public int getEnchantmentValue() {
-				return 14;
+				return 11;
 			}
 
 			@Override
