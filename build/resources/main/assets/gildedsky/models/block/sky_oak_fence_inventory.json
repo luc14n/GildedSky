@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_inventory",
-  "textures": {
-    "texture": "gildedsky:blocks/skyoak_planks",
-    "particle": "gildedsky:blocks/skyoak_planks"
-  },
-  "render_type": "solid"
-}

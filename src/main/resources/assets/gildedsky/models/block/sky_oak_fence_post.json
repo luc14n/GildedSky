@@ -1,8 +1,0 @@
-{
-  "parent": "block/fence_post",
-  "textures": {
-    "texture": "gildedsky:blocks/skyoak_planks",
-    "particle": "gildedsky:blocks/skyoak_planks"
-  },
-  "render_type": "solid"
-}

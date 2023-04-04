@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GrandOakPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:GrandOakPlanks"
+      },
+      {
+        "value": "CUSTOM:GrandOakPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:GrandOakPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GrandOakFence"
+    },
+    "name": "grand_oak_fence_recipe",
+    "namespace": "mod"
+  }
+}

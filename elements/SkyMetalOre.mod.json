@@ -35,8 +35,8 @@
     ],
     "name": "SkyMetal Ore",
     "specialInfo": [],
-    "hardness": 4.5,
-    "resistance": 6.915809336112958,
+    "hardness": 3.5999999999999996,
+    "resistance": 5.785155024015763,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
@@ -98,7 +98,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 3,
+    "breakHarvestLevel": 2,
     "isBonemealable": false,
     "hasInventory": false,
     "guiBoundTo": "<NONE>",
@@ -127,9 +127,9 @@
       }
     ],
     "generationShape": "UNIFORM",
-    "frequencyPerChunks": 7,
-    "frequencyOnChunk": 4,
+    "frequencyPerChunks": 9,
+    "frequencyOnChunk": 5,
     "minGenerateHeight": 1,
-    "maxGenerateHeight": 43
+    "maxGenerateHeight": 53
   }
 }

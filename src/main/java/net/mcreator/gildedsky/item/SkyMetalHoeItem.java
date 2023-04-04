@@ -14,23 +14,23 @@ public class SkyMetalHoeItem extends HoeItem {
 	public SkyMetalHoeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 441;
+				return 323;
 			}
 
 			public float getSpeed() {
-				return 8f;
+				return 7f;
 			}
 
 			public float getAttackDamageBonus() {
-				return 1f;
+				return 0f;
 			}
 
 			public int getLevel() {
-				return 3;
+				return 2;
 			}
 
 			public int getEnchantmentValue() {
-				return 21;
+				return 17;
 			}
 
 			public Ingredient getRepairIngredient() {

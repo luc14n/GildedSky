@@ -1,7 +1,0 @@
-{
-  "parent": "block/button_inventory",
-  "textures": {
-    "texture": "gildedsky:blocks/skyoak_planks"
-  },
-  "render_type": "solid"
-}
