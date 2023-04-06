@@ -2351,6 +2351,7 @@
     {
       "name": "SkyMetalOre",
       "type": "block",
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore",
@@ -2369,6 +2370,7 @@
     {
       "name": "SkyMetalBlock",
       "type": "block",
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_block",
@@ -2385,6 +2387,7 @@
     {
       "name": "SkyMetalOreBlockRecipe",
       "type": "recipe",
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore_block_recipe",
@@ -2398,6 +2401,7 @@
     {
       "name": "SkyMetalBlockOreRecipe",
       "type": "recipe",
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_block_ore_recipe",
@@ -2411,6 +2415,7 @@
     {
       "name": "SkyMetalOreSmelting",
       "type": "recipe",
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore_smelting",
@@ -2424,6 +2429,7 @@
     {
       "name": "SkyMetalPickaxe",
       "type": "tool",
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_pickaxe",
@@ -2438,6 +2444,7 @@
     {
       "name": "SkyMetalAxe",
       "type": "tool",
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_axe",
@@ -2452,6 +2459,7 @@
     {
       "name": "SkyMetalSword",
       "type": "tool",
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_sword",
@@ -2466,6 +2474,7 @@
     {
       "name": "SkyMetalShovel",
       "type": "tool",
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_shovel",
@@ -2480,6 +2489,7 @@
     {
       "name": "SkyMetalHoe",
       "type": "tool",
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_hoe",
@@ -2494,6 +2504,7 @@
     {
       "name": "SkyMetalPickaxeRecipe",
       "type": "recipe",
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_pickaxe_recipe",
@@ -2507,6 +2518,7 @@
     {
       "name": "SkyMetalAxeRecipe",
       "type": "recipe",
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_axe_recipe",
@@ -2520,6 +2532,7 @@
     {
       "name": "SkyMetalSwordRecipe",
       "type": "recipe",
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_sword_recipe",
@@ -2533,6 +2546,7 @@
     {
       "name": "SkyMetalShovelRecipe",
       "type": "recipe",
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_shovel_recipe",
@@ -2546,6 +2560,7 @@
     {
       "name": "SkyMetalHoeRecipe",
       "type": "recipe",
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_hoe_recipe",
@@ -2576,6 +2591,7 @@
     {
       "name": "SkyMetalArmorHelmetRecipe",
       "type": "recipe",
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_helmet_recipe",
@@ -2589,6 +2605,7 @@
     {
       "name": "SkyMetalArmorBodyRecipe",
       "type": "recipe",
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_body_recipe",
@@ -2602,6 +2619,7 @@
     {
       "name": "SkyMetalArmorLeggingsRecipe",
       "type": "recipe",
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_leggings_recipe",
@@ -2615,6 +2633,7 @@
     {
       "name": "SkyMetalArmorBootsRecipe",
       "type": "recipe",
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_boots_recipe",
@@ -2637,16 +2656,16 @@
       "block.gildedsky.gilded_dark_stone_brick_slab": "Gilded Dark Stone",
       "block.gildedsky.grand_oak_stairs": "GrandOak Stairs",
       "itemGroup.tabgilded_sky": "Gilded Sky",
-      "block.gildedsky.sky_cobblestone_slab": "Gilded Cobblestone",
       "block.gildedsky.gilded_dark_stone_brick_wall": "Gilded Dark Stone",
-      "item.gildedsky.sky_metal_ingot": "SkyMetal",
-      "block.gildedsky.gilded_stone_brick_wall": "Gilded Stone",
+      "block.gildedsky.sky_cobblestone_slab": "Gilded Cobblestone",
       "block.gildedsky.gilded_cobblestone": "Gilded Cobblestone",
+      "block.gildedsky.gilded_stone_brick_wall": "Gilded Stone",
+      "item.gildedsky.sky_metal_ingot": "SkyMetal",
       "block.gildedsky.sky_stone_bricks": "Gilded Stone",
       "block.gildedsky.grand_oak_leaves": "GrandOak Leaves",
       "item.gildedsky.sky_metal_armor_chestplate": "SkyMetal Chestplate",
-      "block.gildedsky.dark_sky_stone_brick_stair": "Dark Sky Stone Brick Stair",
       "block.gildedsky.dark_sky_cobblestone_wall": "Dark Sky Cobblestone Wall",
+      "block.gildedsky.dark_sky_stone_brick_stair": "Dark Sky Stone Brick Stair",
       "block.gildedsky.dark_sky_stone_slab": "Dark Sky Stone Slab",
       "block.gildedsky.dark_sky_stone_brick_slab": "Dark Sky Stone Brick Slab",
       "block.gildedsky.gilded_stone_brick_slab": "Gilded Stone",
