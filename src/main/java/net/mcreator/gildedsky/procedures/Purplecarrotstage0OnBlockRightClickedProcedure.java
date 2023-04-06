@@ -1,30 +1,8 @@
 package net.mcreator.gildedsky.procedures;
 
-import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.eventbus.api.Event;
-import net.minecraftforge.event.entity.player.BonemealEvent;
-
-import net.minecraft.world.level.block.state.properties.Property;
-import net.minecraft.world.level.block.state.BlockState;
-import net.minecraft.world.level.block.entity.BlockEntity;
-import net.minecraft.world.level.block.Blocks;
-import net.minecraft.world.level.LevelAccessor;
-import net.minecraft.world.level.Level;
-import net.minecraft.world.item.Items;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.entity.Entity;
-import net.minecraft.world.InteractionHand;
-import net.minecraft.nbt.CompoundTag;
-import net.minecraft.core.BlockPos;
-
-import net.mcreator.gildedsky.init.GildedskyModBlocks;
 
 import javax.annotation.Nullable;
-
-import java.util.Map;
 
 @Mod.EventBusSubscriber
 public class Purplecarrotstage0OnBlockRightClickedProcedure {
@@ -47,10 +25,10 @@ public class Purplecarrotstage0OnBlockRightClickedProcedure {
 		BlockState blockStage0 = Blocks.AIR.defaultBlockState();
 		ItemStack itemBoneMeal = ItemStack.EMPTY;
 		itemBoneMeal = new ItemStack(Items.BONE_MEAL);
-		blockStage0 = GildedskyModBlocks.PURPLECARROTSTAGE_0.get().defaultBlockState();
-		blockStage1 = GildedskyModBlocks.PURPLECARROTSTAGE_1.get().defaultBlockState();
+		blockStage0 = GildedskyModItems.DELETED_MOD_ELEMENT.get().defaultBlockState();
+		blockStage1 = GildedskyModItems.DELETED_MOD_ELEMENT.get().defaultBlockState();
 		blockStage2 = GildedskyModBlocks.PURPLECARROTSSTAGE_2.get().defaultBlockState();
-		blockStage3 = GildedskyModBlocks.PURPLECARROTSTAGE_3.get().defaultBlockState();
+		blockStage3 = GildedskyModItems.DELETED_MOD_ELEMENT.get().defaultBlockState();
 		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == itemBoneMeal.getItem()) {
 			randomNumber = Math.random();
 			if ((world.getBlockState(new BlockPos(x, y, z))).getBlock() == blockStage0.getBlock()) {

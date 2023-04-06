@@ -136,8 +136,8 @@
       "registry_name": "dark_sky_cobblestone",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/DarkSkyCobblestoneBlock.java",
           "src/main/resources/assets/gildedsky/models/item/dark_sky_cobblestone.json",
+          "src/main/java/net/mcreator/gildedsky/block/DarkSkyCobblestoneBlock.java",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone.json",
           "src/main/resources/assets/gildedsky/blockstates/dark_sky_cobblestone.json"
         ]
@@ -2337,7 +2337,6 @@
     {
       "name": "SkyMetalIngot",
       "type": "item",
-      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ingot",
@@ -2388,7 +2387,6 @@
     {
       "name": "SkyMetalOreBlockRecipe",
       "type": "recipe",
-      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore_block_recipe",
@@ -2402,7 +2400,6 @@
     {
       "name": "SkyMetalBlockOreRecipe",
       "type": "recipe",
-      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_block_ore_recipe",
@@ -2416,7 +2413,6 @@
     {
       "name": "SkyMetalOreSmelting",
       "type": "recipe",
-      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore_smelting",
@@ -2505,7 +2501,6 @@
     {
       "name": "SkyMetalPickaxeRecipe",
       "type": "recipe",
-      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_pickaxe_recipe",
@@ -2519,7 +2514,6 @@
     {
       "name": "SkyMetalAxeRecipe",
       "type": "recipe",
-      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_axe_recipe",
@@ -2533,7 +2527,6 @@
     {
       "name": "SkyMetalSwordRecipe",
       "type": "recipe",
-      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_sword_recipe",
@@ -2547,7 +2540,6 @@
     {
       "name": "SkyMetalShovelRecipe",
       "type": "recipe",
-      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_shovel_recipe",
@@ -2561,7 +2553,6 @@
     {
       "name": "SkyMetalHoeRecipe",
       "type": "recipe",
-      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_hoe_recipe",
@@ -2593,7 +2584,6 @@
     {
       "name": "SkyMetalArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_helmet_recipe",
@@ -2607,7 +2597,6 @@
     {
       "name": "SkyMetalArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_body_recipe",
@@ -2621,7 +2610,6 @@
     {
       "name": "SkyMetalArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_leggings_recipe",
@@ -2635,7 +2623,6 @@
     {
       "name": "SkyMetalArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_boots_recipe",
@@ -2664,50 +2651,37 @@
       "path": "~/Blocks/Crops"
     },
     {
-      "name": "Purplecarrotstage3",
-      "type": "block",
-      "sortid": 215,
+      "name": "Purplecarrotstage0OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "purplecarrotstage_3",
+      "registry_name": "purplecarrotstage_0_on_block_right_clicked",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/purplecarrotstage_3.json",
-          "src/main/java/net/mcreator/gildedsky/block/Purplecarrotstage3Block.java",
-          "src/main/resources/assets/gildedsky/models/block/purplecarrotstage_3.json",
-          "src/main/resources/assets/gildedsky/models/item/purplecarrotstage_3.json"
-        ]
-      },
-      "path": "~/Blocks/Crops"
-    },
-    {
-      "name": "PurpleCarrot",
-      "type": "item",
-      "sortid": 216,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "purple_carrot",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/gildedsky/models/item/purple_carrot.json",
-          "src/main/java/net/mcreator/gildedsky/item/PurpleCarrotItem.java"
-        ]
-      },
-      "path": "~/Items"
-    },
-    {
-      "name": "Purplecarrotstage0",
-      "type": "block",
-      "sortid": 217,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "purplecarrotstage_0",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/gildedsky/blockstates/purplecarrotstage_0.json",
-          "src/main/resources/assets/gildedsky/models/item/purplecarrotstage_0.json",
-          "src/main/java/net/mcreator/gildedsky/block/Purplecarrotstage0Block.java",
-          "src/main/resources/assets/gildedsky/models/block/purplecarrotstage_0.json"
+          "src/main/java/net/mcreator/gildedsky/procedures/Purplecarrotstage0OnBlockRightClickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
         ]
       },
       "path": "~/Blocks/Crops"
@@ -2766,37 +2740,50 @@
       "path": "~/Items"
     },
     {
-      "name": "Purplecarrotstage0OnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 219,
+      "name": "Purplecarrotstage0",
+      "type": "block",
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "purplecarrotstage_0_on_block_right_clicked",
+      "registry_name": "purplecarrotstage_0",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/procedures/Purplecarrotstage0OnBlockRightClickedProcedure.java"
-        ],
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
+          "src/main/resources/assets/gildedsky/blockstates/purplecarrotstage_0.json",
+          "src/main/resources/assets/gildedsky/models/item/purplecarrotstage_0.json",
+          "src/main/java/net/mcreator/gildedsky/block/Purplecarrotstage0Block.java",
+          "src/main/resources/assets/gildedsky/models/block/purplecarrotstage_0.json"
+        ]
+      },
+      "path": "~/Blocks/Crops"
+    },
+    {
+      "name": "PurpleCarrot",
+      "type": "item",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purple_carrot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/models/item/purple_carrot.json",
+          "src/main/java/net/mcreator/gildedsky/item/PurpleCarrotItem.java"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Purplecarrotstage3",
+      "type": "block",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purplecarrotstage_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/gildedsky/blockstates/purplecarrotstage_3.json",
+          "src/main/java/net/mcreator/gildedsky/block/Purplecarrotstage3Block.java",
+          "src/main/resources/assets/gildedsky/models/block/purplecarrotstage_3.json",
+          "src/main/resources/assets/gildedsky/models/item/purplecarrotstage_3.json"
         ]
       },
       "path": "~/Blocks/Crops"
@@ -2888,12 +2875,33 @@
     "name": "~",
     "children": [
       {
-        "name": "GUI",
+        "name": "Items",
         "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": [
+          {
+            "name": "Stone Cutter",
+            "children": []
+          },
+          {
+            "name": "Furnace",
+            "children": []
+          },
+          {
+            "name": "Crafting Table",
+            "children": []
+          }
+        ]
       },
       {
         "name": "Blocks",
         "children": [
+          {
+            "name": "Materials",
+            "children": []
+          },
           {
             "name": "Stones",
             "children": []
@@ -2903,42 +2911,21 @@
             "children": []
           },
           {
-            "name": "Materials",
+            "name": "Crops",
             "children": []
           },
           {
             "name": "Trees",
             "children": []
-          },
-          {
-            "name": "Crops",
-            "children": []
           }
         ]
-      },
-      {
-        "name": "Recipes",
-        "children": [
-          {
-            "name": "Crafting Table",
-            "children": []
-          },
-          {
-            "name": "Stone Cutter",
-            "children": []
-          },
-          {
-            "name": "Furnace",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Items",
-        "children": []
       },
       {
         "name": "Tags",
+        "children": []
+      },
+      {
+        "name": "GUI",
         "children": []
       }
     ]
@@ -2961,5 +2948,5 @@
     "modElementsPackage": "net.mcreator.gildedsky",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202300110610
+  "mcreatorVersion": 202300109612
 }
