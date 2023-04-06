@@ -24,6 +24,10 @@ import net.mcreator.gildedsky.block.SkyCobblestoneWallBlock;
 import net.mcreator.gildedsky.block.SkyCobblestoneStairBlock;
 import net.mcreator.gildedsky.block.SkyCobblestoneSlabBlock;
 import net.mcreator.gildedsky.block.SkyCobblestoneBlock;
+import net.mcreator.gildedsky.block.Purplecarrotstage3Block;
+import net.mcreator.gildedsky.block.Purplecarrotstage1Block;
+import net.mcreator.gildedsky.block.Purplecarrotstage0Block;
+import net.mcreator.gildedsky.block.Purplecarrotsstage2Block;
 import net.mcreator.gildedsky.block.GrandOakWoodBlock;
 import net.mcreator.gildedsky.block.GrandOakStairsBlock;
 import net.mcreator.gildedsky.block.GrandOakSlabBlock;
@@ -134,4 +138,8 @@ public class GildedskyModBlocks {
 	public static final RegistryObject<Block> GRAND_OAK_BUTTON = REGISTRY.register("grand_oak_button", () -> new GrandOakButtonBlock());
 	public static final RegistryObject<Block> SKY_METAL_ORE = REGISTRY.register("sky_metal_ore", () -> new SkyMetalOreBlock());
 	public static final RegistryObject<Block> SKY_METAL_BLOCK = REGISTRY.register("sky_metal_block", () -> new SkyMetalBlockBlock());
+	public static final RegistryObject<Block> PURPLECARROTSSTAGE_2 = REGISTRY.register("purplecarrotsstage_2", () -> new Purplecarrotsstage2Block());
+	public static final RegistryObject<Block> PURPLECARROTSTAGE_3 = REGISTRY.register("purplecarrotstage_3", () -> new Purplecarrotstage3Block());
+	public static final RegistryObject<Block> PURPLECARROTSTAGE_0 = REGISTRY.register("purplecarrotstage_0", () -> new Purplecarrotstage0Block());
+	public static final RegistryObject<Block> PURPLECARROTSTAGE_1 = REGISTRY.register("purplecarrotstage_1", () -> new Purplecarrotstage1Block());
 }

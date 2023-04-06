@@ -14,7 +14,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
@@ -29,7 +29,7 @@ gamma:0.5
 renderDistance:5
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:0
+guiScale:2
 particles:0
 maxFps:260
 graphicsMode:0
@@ -72,7 +72,7 @@ skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:false
-syncChunkWrites:true
+syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1

@@ -20,6 +20,7 @@ import net.mcreator.gildedsky.item.SkyMetalIngotItem;
 import net.mcreator.gildedsky.item.SkyMetalHoeItem;
 import net.mcreator.gildedsky.item.SkyMetalAxeItem;
 import net.mcreator.gildedsky.item.SkyMetalArmorItem;
+import net.mcreator.gildedsky.item.PurpleCarrotItem;
 import net.mcreator.gildedsky.GildedskyMod;
 
 public class GildedskyModItems {
@@ -94,6 +95,11 @@ public class GildedskyModItems {
 	public static final RegistryObject<Item> SKY_METAL_ARMOR_CHESTPLATE = REGISTRY.register("sky_metal_armor_chestplate", () -> new SkyMetalArmorItem.Chestplate());
 	public static final RegistryObject<Item> SKY_METAL_ARMOR_LEGGINGS = REGISTRY.register("sky_metal_armor_leggings", () -> new SkyMetalArmorItem.Leggings());
 	public static final RegistryObject<Item> SKY_METAL_ARMOR_BOOTS = REGISTRY.register("sky_metal_armor_boots", () -> new SkyMetalArmorItem.Boots());
+	public static final RegistryObject<Item> PURPLECARROTSSTAGE_2 = block(GildedskyModBlocks.PURPLECARROTSSTAGE_2, null);
+	public static final RegistryObject<Item> PURPLECARROTSTAGE_3 = block(GildedskyModBlocks.PURPLECARROTSTAGE_3, null);
+	public static final RegistryObject<Item> PURPLE_CARROT = REGISTRY.register("purple_carrot", () -> new PurpleCarrotItem());
+	public static final RegistryObject<Item> PURPLECARROTSTAGE_0 = block(GildedskyModBlocks.PURPLECARROTSTAGE_0, null);
+	public static final RegistryObject<Item> PURPLECARROTSTAGE_1 = block(GildedskyModBlocks.PURPLECARROTSTAGE_1, null);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));
