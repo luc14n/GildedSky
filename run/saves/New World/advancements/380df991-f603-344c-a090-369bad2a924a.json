@@ -11,11 +11,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2023-04-06 11:32:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-03-04 19:09:12 -0500"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-04-06 11:32:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-04-06 11:36:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-03-04 19:09:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2023-03-04 19:09:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2023-03-04 19:09:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-03-04 19:13:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2023-03-04 19:09:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2023-03-04 19:09:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2023-04-06 11:32:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-04-06 11:32:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_gravelly_hills": "2023-03-04 19:07:14 -0500",
+      "minecraft:plains": "2023-04-06 11:33:03 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
@@ -35,13 +108,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "has_stone": "2023-03-04 19:09:12 -0500"
+      "in_water": "2023-04-06 11:32:49 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-03-04 19:09:12 -0500"
     },
@@ -53,15 +126,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "has_stone": "2023-03-04 19:09:12 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2023-03-04 19:09:12 -0500"
+      "in_water": "2023-04-06 11:32:49 -0400"
     },
     "done": true
   },
@@ -71,15 +138,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_stone": "2023-03-04 19:09:12 -0500"
+      "in_water": "2023-04-06 11:32:49 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+  "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
-      "has_tag": "2023-03-04 19:13:05 -0500"
+      "in_water": "2023-04-06 11:32:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2023-04-06 11:33:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-03-04 19:09:12 -0500"
     },
     "done": true
   },
@@ -95,15 +174,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "has_stone": "2023-03-04 19:09:12 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2023-03-04 19:09:12 -0500"
+      "in_water": "2023-04-06 11:32:49 -0400"
     },
     "done": true
   },
@@ -113,11 +186,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "minecraft:windswept_gravelly_hills": "2023-03-04 19:07:14 -0500"
+      "in_water": "2023-04-06 11:32:49 -0400"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2023-04-06 11:33:07 -0400"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }

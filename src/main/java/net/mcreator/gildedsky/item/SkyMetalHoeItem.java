@@ -1,14 +1,7 @@
 
 package net.mcreator.gildedsky.item;
 
-import net.minecraft.world.item.crafting.Ingredient;
-import net.minecraft.world.item.Tier;
-import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.HoeItem;
-import net.minecraft.world.item.CreativeModeTab;
-
-import net.mcreator.gildedsky.init.GildedskyModItems;
+import net.minecraft.world.entity.ai.attributes.Attributes;
 
 public class SkyMetalHoeItem extends HoeItem {
 	public SkyMetalHoeItem() {
