@@ -4,5 +4,5 @@
     "wall": "gildedsky:blocks/darkskystone",
     "particle": "gildedsky:blocks/darkskystone"
   },
-  "render_type": "solid"
+  "render_type": "cutout_mipped"
 }

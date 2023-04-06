@@ -34,9 +34,9 @@ public class SkyMetalOreFeature extends OreFeature {
 	public static Feature<?> feature() {
 		FEATURE = new SkyMetalOreFeature();
 		CONFIGURED_FEATURE = FeatureUtils.register("gildedsky:sky_metal_ore", FEATURE,
-				new OreConfiguration(List.of(OreConfiguration.target(new BlockStateMatchTest(Blocks.STONE.defaultBlockState()), GildedskyModBlocks.SKY_METAL_ORE.get().defaultBlockState())), 5));
+				new OreConfiguration(List.of(OreConfiguration.target(new BlockStateMatchTest(Blocks.STONE.defaultBlockState()), GildedskyModBlocks.SKY_METAL_ORE.get().defaultBlockState())), 4));
 		PLACED_FEATURE = PlacementUtils.register("gildedsky:sky_metal_ore", CONFIGURED_FEATURE,
-				List.of(CountPlacement.of(9), InSquarePlacement.spread(), HeightRangePlacement.uniform(VerticalAnchor.absolute(1), VerticalAnchor.absolute(53)), BiomeFilter.biome()));
+				List.of(CountPlacement.of(7), InSquarePlacement.spread(), HeightRangePlacement.uniform(VerticalAnchor.absolute(1), VerticalAnchor.absolute(43)), BiomeFilter.biome()));
 		return FEATURE;
 	}
 

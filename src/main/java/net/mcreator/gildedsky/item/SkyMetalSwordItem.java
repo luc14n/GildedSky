@@ -14,23 +14,23 @@ public class SkyMetalSwordItem extends SwordItem {
 	public SkyMetalSwordItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 323;
+				return 441;
 			}
 
 			public float getSpeed() {
-				return 7f;
+				return 8f;
 			}
 
 			public float getAttackDamageBonus() {
-				return 0f;
+				return 1f;
 			}
 
 			public int getLevel() {
-				return 2;
+				return 3;
 			}
 
 			public int getEnchantmentValue() {
-				return 17;
+				return 21;
 			}
 
 			public Ingredient getRepairIngredient() {

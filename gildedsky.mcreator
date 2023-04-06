@@ -12,9 +12,9 @@
           "src/main/java/net/mcreator/gildedsky/world/features/ores/GildedStoneFeature.java",
           "src/main/resources/assets/gildedsky/models/item/gilded_stone.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/gilded_stone.json",
-          "src/main/resources/data/gildedsky/forge/biome_modifier/gilded_stone_biome_modifier.json"
+          "src/main/resources/data/gildedsky/forge/biome_modifier/gilded_stone_biome_modifier.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBlock.java"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -28,12 +28,12 @@
       "registry_name": "gilded_dark_stone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone.json",
-          "src/main/java/net/mcreator/gildedsky/world/features/ores/GildedDarkStoneFeature.java",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone.json",
+          "src/main/resources/data/gildedsky/forge/biome_modifier/gilded_dark_stone_biome_modifier.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBlock.java",
-          "src/main/resources/data/gildedsky/forge/biome_modifier/gilded_dark_stone_biome_modifier.json"
+          "src/main/java/net/mcreator/gildedsky/world/features/ores/GildedDarkStoneFeature.java",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -47,10 +47,10 @@
       "registry_name": "gilded_cobblestone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_cobblestone.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone.json"
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_cobblestone.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -64,10 +64,10 @@
       "registry_name": "gilded_dark_cobblestone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedDarkCobblestoneBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone.json",
           "src/main/resources/assets/gildedsky/blockstates/gilded_dark_cobblestone.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone.json"
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedDarkCobblestoneBlock.java"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -81,12 +81,12 @@
       "registry_name": "sky_stone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/sky_stone.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyStoneBlock.java",
-          "src/main/java/net/mcreator/gildedsky/world/features/ores/SkyStoneFeature.java",
-          "src/main/resources/assets/gildedsky/models/item/sky_stone.json",
           "src/main/resources/data/gildedsky/forge/biome_modifier/sky_stone_biome_modifier.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_stone.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_stone.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone.json",
+          "src/main/java/net/mcreator/gildedsky/world/features/ores/SkyStoneFeature.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_stone.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -100,12 +100,12 @@
       "registry_name": "dark_sky_stone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone.json",
           "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone.json",
           "src/main/resources/data/gildedsky/forge/biome_modifier/dark_sky_stone_biome_modifier.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone.json",
           "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBlock.java",
-          "src/main/java/net/mcreator/gildedsky/world/features/ores/DarkSkyStoneFeature.java",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone.json"
+          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone.json",
+          "src/main/java/net/mcreator/gildedsky/world/features/ores/DarkSkyStoneFeature.java"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -119,8 +119,8 @@
       "registry_name": "sky_cobblestone",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/sky_cobblestone.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyCobblestoneBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_cobblestone.json",
           "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone.json",
           "src/main/resources/assets/gildedsky/models/block/sky_cobblestone.json"
         ]
@@ -153,10 +153,10 @@
       "registry_name": "gilded_stone_bricks",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBricksBlock.java",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_bricks.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_bricks.json",
           "src/main/resources/assets/gildedsky/models/item/gilded_stone_bricks.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_bricks.json"
+          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_bricks.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBricksBlock.java"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -171,9 +171,9 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_bricks.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBricksBlock.java",
           "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_bricks.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_bricks.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBricksBlock.java"
+          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_bricks.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -187,10 +187,10 @@
       "registry_name": "sky_stone_bricks",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/sky_stone_bricks.json",
           "src/main/resources/assets/gildedsky/models/item/sky_stone_bricks.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_bricks.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyStoneBricksBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_bricks.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_stone_bricks.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -204,9 +204,9 @@
       "registry_name": "dark_sky_stone_bricks",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_bricks.json",
           "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_bricks.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_bricks.json",
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_bricks.json",
           "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBricksBlock.java"
         ]
       },
@@ -233,12 +233,12 @@
       "registry_name": "sky_stone_brick_slab",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/SkyStoneBrickSlabBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/sky_stone_brick_slab.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_stone_brick_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_slab_top.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_slab_full.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_slab.json"
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_slab.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyStoneBrickSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_stone_brick_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_slab_top.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -254,10 +254,10 @@
         "files": [
           "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBrickSlabBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_brick_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_slab_full.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_slab.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_slab_top.json",
-          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_brick_slab.json"
+          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_brick_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_slab_full.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -271,12 +271,12 @@
       "registry_name": "sky_stone_brick_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/sky_stone_brick_stair.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_stair_inner.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_stair.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_stair_outer.json",
-          "src/main/java/net/mcreator/gildedsky/block/SkyStoneBrickStairBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_stair.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_stone_brick_stair.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyStoneBrickStairBlock.java"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -290,12 +290,12 @@
       "registry_name": "dark_sky_stone_brick_stair",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBrickStairBlock.java",
-          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_brick_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_stair_outer.json",
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_stair.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_stair_inner.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_stair.json"
+          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBrickStairBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_stair_outer.json",
+          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_brick_stair.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -309,13 +309,13 @@
       "registry_name": "sky_stone_brick_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_wall_side_tall.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_stone_brick_wall.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_wall.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_wall_post.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_wall_side_tall.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyStoneBrickWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_stone_brick_wall.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_brick_wall_inventory.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_stone_brick_wall.json",
-          "src/main/java/net/mcreator/gildedsky/block/SkyStoneBrickWallBlock.java"
+          "src/main/resources/assets/gildedsky/blockstates/sky_stone_brick_wall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -329,13 +329,13 @@
       "registry_name": "dark_sky_stone_brick_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_brick_wall.json",
-          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBrickWallBlock.java",
           "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_brick_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall_post.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall_side_tall.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall_inventory.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall.json"
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall_post.json",
+          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneBrickWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_brick_wall_side_tall.json",
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_brick_wall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -352,9 +352,9 @@
           "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_brick_slab.json",
           "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_brick_slab.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_slab_top.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBrickSlabBlock.java",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_slab_full.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBrickSlabBlock.java"
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_slab_top.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -368,12 +368,12 @@
       "registry_name": "gilded_dark_stone_brick_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_brick_stair.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_stair_inner.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_stair_outer.json",
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_brick_stair.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBrickStairBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_stair_inner.json"
+          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_brick_stair.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -387,13 +387,13 @@
       "registry_name": "gilded_dark_stone_brick_wall",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBrickWallBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_wall_side_tall.json",
           "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_brick_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_wall.json",
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_brick_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_wall_post.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_wall_inventory.json"
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_brick_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_wall_inventory.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneBrickWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_brick_wall_side_tall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -409,10 +409,10 @@
         "files": [
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_slab_top.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedStoneBrickSlabBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_slab_full.json",
-          "src/main/resources/assets/gildedsky/models/item/gilded_stone_brick_slab.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_brick_slab.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_slab.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_brick_slab.json"
+          "src/main/resources/assets/gildedsky/models/item/gilded_stone_brick_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_slab_full.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -426,11 +426,11 @@
       "registry_name": "gilded_stone_brick_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_stone_brick_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_stair_inner.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBrickStairBlock.java",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_stair.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_stair_outer.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBrickStairBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_stair_inner.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_stone_brick_stair.json",
           "src/main/resources/assets/gildedsky/blockstates/gilded_stone_brick_stair.json"
         ]
       },
@@ -445,13 +445,13 @@
       "registry_name": "gilded_stone_brick_wall",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBrickWallBlock.java",
-          "src/main/resources/assets/gildedsky/models/item/gilded_stone_brick_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_wall_post.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_wall_inventory.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_wall_side_tall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_wall.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_brick_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_wall_post.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_brick_wall_inventory.json"
+          "src/main/java/net/mcreator/gildedsky/block/GildedStoneBrickWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/gilded_stone_brick_wall.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_brick_wall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -467,8 +467,8 @@
         "files": [
           "src/main/java/net/mcreator/gildedsky/block/SkyStoneSlabBlock.java",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_slab_top.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_slab_full.json",
           "src/main/resources/assets/gildedsky/models/item/sky_stone_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_slab_full.json",
           "src/main/resources/assets/gildedsky/blockstates/sky_stone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_slab.json"
         ]
@@ -484,12 +484,12 @@
       "registry_name": "dark_sky_stone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_slab.json",
-          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneSlabBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_slab.json",
           "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_slab_full.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_slab_top.json"
+          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_slab_top.json",
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -503,12 +503,12 @@
       "registry_name": "sky_stone_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/sky_stone_stair.json",
-          "src/main/java/net/mcreator/gildedsky/block/SkyStoneStairBlock.java",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_stair_outer.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_stair_inner.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyStoneStairBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_stone_stair.json",
           "src/main/resources/assets/gildedsky/blockstates/sky_stone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_stair_inner.json"
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_stair_outer.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -522,12 +522,12 @@
       "registry_name": "dark_sky_stone_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_stair.json",
           "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneStairBlock.java",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_stair_outer.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_stair_inner.json",
           "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_stair_inner.json"
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_stair.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -541,13 +541,13 @@
       "registry_name": "sky_stone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/sky_stone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_wall_post.json",
-          "src/main/java/net/mcreator/gildedsky/block/SkyStoneWallBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/sky_stone_wall_inventory.json",
           "src/main/resources/assets/gildedsky/models/block/sky_stone_wall_side_tall.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_stone_wall.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_stone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_wall_inventory.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_wall.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyStoneWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_stone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_stone_wall_post.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -561,13 +561,13 @@
       "registry_name": "dark_sky_stone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_wall_post.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_wall_inventory.json",
-          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneWallBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_wall_side_tall.json",
-          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_wall.json",
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_stone_wall.json"
+          "src/main/java/net/mcreator/gildedsky/block/DarkSkyStoneWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_stone_wall_post.json",
+          "src/main/resources/assets/gildedsky/models/item/dark_sky_stone_wall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -581,12 +581,12 @@
       "registry_name": "sky_cobblestone_slab",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/SkyCobblestoneSlabBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_slab_full.json",
           "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_slab.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone_slab.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_cobblestone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_slab_top.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_cobblestone_slab.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone_slab.json",
+          "src/main/java/net/mcreator/gildedsky/block/SkyCobblestoneSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_slab_full.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -601,11 +601,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_stair_outer.json",
           "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_stair_inner.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone_stair.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyCobblestoneStairBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_stair_outer.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone_stair.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_cobblestone_stair.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -619,13 +619,13 @@
       "registry_name": "sky_cobblestone_wall",
       "metadata": {
         "files": [
+          "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall_inventory.json",
           "src/main/resources/assets/gildedsky/models/item/sky_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall_side_tall.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyCobblestoneWallBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall_post.json",
-          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall.json"
+          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall_side_tall.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/sky_cobblestone_wall_post.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -639,12 +639,12 @@
       "registry_name": "dark_sky_cobblestone_slab",
       "metadata": {
         "files": [
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_slab_full.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_slab_top.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_slab.json",
-          "src/main/resources/assets/gildedsky/models/item/dark_sky_cobblestone_slab.json",
           "src/main/java/net/mcreator/gildedsky/block/DarkSkyCobblestoneSlabBlock.java",
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_cobblestone_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_slab_full.json"
+          "src/main/resources/assets/gildedsky/models/item/dark_sky_cobblestone_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_slab.json",
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_cobblestone_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -658,12 +658,12 @@
       "registry_name": "dark_sky_cobblestone_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/blockstates/dark_sky_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_stair_outer.json",
           "src/main/java/net/mcreator/gildedsky/block/DarkSkyCobblestoneStairBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_stair_inner.json",
           "src/main/resources/assets/gildedsky/models/item/dark_sky_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_stair_inner.json"
+          "src/main/resources/assets/gildedsky/blockstates/dark_sky_cobblestone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_stair_outer.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -677,13 +677,13 @@
       "registry_name": "dark_sky_cobblestone_wall",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/DarkSkyCobblestoneWallBlock.java",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_wall_side_tall.json",
           "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_wall_inventory.json",
+          "src/main/java/net/mcreator/gildedsky/block/DarkSkyCobblestoneWallBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/dark_sky_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/models/item/dark_sky_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_wall_post.json"
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_wall_side_tall.json",
+          "src/main/resources/assets/gildedsky/models/block/dark_sky_cobblestone_wall_post.json",
+          "src/main/resources/assets/gildedsky/models/item/dark_sky_cobblestone_wall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -697,12 +697,12 @@
       "registry_name": "gilded_stone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_slab_full.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_slab_top.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_slab_full.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_stone_slab.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedStoneSlabBlock.java",
-          "src/main/resources/assets/gildedsky/models/item/gilded_stone_slab.json"
+          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_slab.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -716,12 +716,12 @@
       "registry_name": "gilded_stone_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_stone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_stair.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_stair_outer.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_stair_inner.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedStoneStairBlock.java"
+          "src/main/java/net/mcreator/gildedsky/block/GildedStoneStairBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_stair.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_stone_stair.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_stair_outer.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -735,12 +735,12 @@
       "registry_name": "gilded_stone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_stone_wall_post.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_wall.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedStoneWallBlock.java",
           "src/main/resources/assets/gildedsky/models/item/gilded_stone_wall.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_stone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_wall_side_tall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_stone_wall_post.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_stone_wall_inventory.json"
         ]
       },
@@ -755,12 +755,12 @@
       "registry_name": "gilded_dark_stone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_slab_top.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_slab.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneSlabBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_slab.json",
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_slab_full.json"
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_slab_full.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_slab_top.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -774,11 +774,11 @@
       "registry_name": "gilded_dark_stone_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_stair_outer.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_stair_inner.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_stair.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneStairBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_stair_inner.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_stair_outer.json",
           "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_stair.json"
         ]
       },
@@ -793,13 +793,13 @@
       "registry_name": "gilded_dark_stone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_wall_side_tall.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_wall_post.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_wall.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_stone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_wall_inventory.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkStoneWallBlock.java",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_stone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_wall.json"
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_stone_wall_post.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -813,12 +813,12 @@
       "registry_name": "gilded_cobblestone_slab",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_cobblestone_slab.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_slab_full.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneSlabBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_slab_top.json"
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_slab_top.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/gilded_cobblestone_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -832,12 +832,12 @@
       "registry_name": "gilded_cobblestone_stair",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_stair_inner.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_stair_outer.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneStairBlock.java",
           "src/main/resources/assets/gildedsky/models/item/gilded_cobblestone_stair.json",
           "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone_stair.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneStairBlock.java"
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_stair_inner.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_stair.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_stair_outer.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -851,13 +851,13 @@
       "registry_name": "gilded_cobblestone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall_post.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone_wall.json",
           "src/main/resources/assets/gildedsky/models/item/gilded_cobblestone_wall.json",
+          "src/main/resources/assets/gildedsky/blockstates/gilded_cobblestone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall_post.json",
+          "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall_inventory.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall_side_tall.json",
-          "src/main/java/net/mcreator/gildedsky/block/GildedCobblestoneWallBlock.java"
+          "src/main/resources/assets/gildedsky/models/block/gilded_cobblestone_wall_side_tall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -871,12 +871,12 @@
       "registry_name": "gilded_dark_cobblestone_slab",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/GildedDarkCobblestoneSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_slab.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_slab_full.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_slab_top.json",
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone_slab.json",
           "src/main/resources/assets/gildedsky/blockstates/gilded_dark_cobblestone_slab.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_slab.json"
+          "src/main/java/net/mcreator/gildedsky/block/GildedDarkCobblestoneSlabBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone_slab.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -891,11 +891,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/gildedsky/blockstates/gilded_dark_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone_stair.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkCobblestoneStairBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_stair_inner.json",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone_stair.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_stair_outer.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_stair.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_stair_inner.json"
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_stair.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -909,13 +909,13 @@
       "registry_name": "gilded_dark_cobblestone_wall",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone_wall.json",
-          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_wall_post.json",
           "src/main/java/net/mcreator/gildedsky/block/GildedDarkCobblestoneWallBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/gilded_dark_cobblestone_wall.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_wall_inventory.json",
           "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_wall_side_tall.json",
-          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_cobblestone_wall.json"
+          "src/main/resources/assets/gildedsky/blockstates/gilded_dark_cobblestone_wall.json",
+          "src/main/resources/assets/gildedsky/models/block/gilded_dark_cobblestone_wall.json"
         ]
       },
       "path": "~/Blocks/Stones"
@@ -2021,8 +2021,8 @@
       "registry_name": "grand_oak_wood",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/grand_oak_wood.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_wood.json",
+          "src/main/resources/assets/gildedsky/models/item/grand_oak_wood.json",
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_wood.json",
           "src/main/java/net/mcreator/gildedsky/block/GrandOakWoodBlock.java"
         ]
@@ -2038,9 +2038,9 @@
       "registry_name": "grand_oak_log",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/grand_oak_log.json",
           "src/main/resources/assets/gildedsky/models/item/grand_oak_log.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_log.json",
+          "src/main/resources/assets/gildedsky/blockstates/grand_oak_log.json",
           "src/main/java/net/mcreator/gildedsky/block/GrandOakLogBlock.java"
         ]
       },
@@ -2055,9 +2055,9 @@
       "registry_name": "grand_oak_planks",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_planks.json",
-          "src/main/resources/assets/gildedsky/models/item/grand_oak_planks.json",
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_planks.json",
+          "src/main/resources/assets/gildedsky/models/item/grand_oak_planks.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_planks.json",
           "src/main/java/net/mcreator/gildedsky/block/GrandOakPlanksBlock.java"
         ]
       },
@@ -2072,8 +2072,8 @@
       "registry_name": "grand_oak_leaves",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/blockstates/grand_oak_leaves.json",
           "src/main/resources/assets/gildedsky/models/item/grand_oak_leaves.json",
+          "src/main/resources/assets/gildedsky/blockstates/grand_oak_leaves.json",
           "src/main/java/net/mcreator/gildedsky/block/GrandOakLeavesBlock.java",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_leaves.json"
         ]
@@ -2089,12 +2089,12 @@
       "registry_name": "grand_oak_stairs",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/grand_oak_stairs.json",
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_stairs.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_stairs_inner.json",
-          "src/main/java/net/mcreator/gildedsky/block/GrandOakStairsBlock.java",
+          "src/main/resources/assets/gildedsky/models/item/grand_oak_stairs.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_stairs.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_stairs_outer.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_stairs.json"
+          "src/main/java/net/mcreator/gildedsky/block/GrandOakStairsBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_stairs_inner.json"
         ]
       },
       "path": "~/Blocks/Trees"
@@ -2108,12 +2108,12 @@
       "registry_name": "grand_oak_slab",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/block/GrandOakSlabBlock.java",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_slab_top.json",
-          "src/main/resources/assets/gildedsky/blockstates/grand_oak_slab.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_slab.json",
+          "src/main/resources/assets/gildedsky/models/item/grand_oak_slab.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_slab_full.json",
-          "src/main/resources/assets/gildedsky/models/item/grand_oak_slab.json"
+          "src/main/java/net/mcreator/gildedsky/block/GrandOakSlabBlock.java",
+          "src/main/resources/assets/gildedsky/blockstates/grand_oak_slab.json"
         ]
       },
       "path": "~/Blocks/Trees"
@@ -2128,11 +2128,11 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_fence.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence.json",
-          "src/main/java/net/mcreator/gildedsky/block/GrandOakFenceBlock.java",
           "src/main/resources/assets/gildedsky/models/item/grand_oak_fence.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_inventory.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_post.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_inventory.json"
+          "src/main/java/net/mcreator/gildedsky/block/GrandOakFenceBlock.java",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence.json"
         ]
       },
       "path": "~/Blocks/Trees"
@@ -2146,12 +2146,12 @@
       "registry_name": "grand_oak_fence_gate",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate_open.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate.json",
-          "src/main/java/net/mcreator/gildedsky/block/GrandOakFenceGateBlock.java",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate_wall.json",
           "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate_wall_open.json",
           "src/main/resources/assets/gildedsky/models/item/grand_oak_fence_gate.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate_open.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_fence_gate_wall.json",
+          "src/main/java/net/mcreator/gildedsky/block/GrandOakFenceGateBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_fence_gate.json"
         ]
       },
@@ -2167,10 +2167,10 @@
       "metadata": {
         "files": [
           "src/main/resources/assets/gildedsky/models/block/grand_oak_pressure_plate.json",
-          "src/main/resources/assets/gildedsky/models/item/grand_oak_pressure_plate.json",
           "src/main/java/net/mcreator/gildedsky/block/GrandOakPressurePlateBlock.java",
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_pressure_plate.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_pressure_plate_down.json"
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_pressure_plate_down.json",
+          "src/main/resources/assets/gildedsky/models/item/grand_oak_pressure_plate.json"
         ]
       },
       "path": "~/Blocks/Trees"
@@ -2184,12 +2184,12 @@
       "registry_name": "grand_oak_button",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_button_inventory.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_button.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_button_pressed.json",
           "src/main/java/net/mcreator/gildedsky/block/GrandOakButtonBlock.java",
-          "src/main/resources/assets/gildedsky/models/item/grand_oak_button.json",
           "src/main/resources/assets/gildedsky/blockstates/grand_oak_button.json",
-          "src/main/resources/assets/gildedsky/models/block/grand_oak_button_pressed.json"
+          "src/main/resources/assets/gildedsky/models/item/grand_oak_button.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_button.json",
+          "src/main/resources/assets/gildedsky/models/block/grand_oak_button_inventory.json"
         ]
       },
       "path": "~/Blocks/Trees"
@@ -2337,6 +2337,7 @@
     {
       "name": "SkyMetalIngot",
       "type": "item",
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ingot",
@@ -2351,16 +2352,17 @@
     {
       "name": "SkyMetalOre",
       "type": "block",
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore",
       "metadata": {
         "files": [
-          "src/main/resources/data/gildedsky/forge/biome_modifier/sky_metal_ore_biome_modifier.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_metal_ore.json",
-          "src/main/java/net/mcreator/gildedsky/world/features/ores/SkyMetalOreFeature.java",
-          "src/main/resources/assets/gildedsky/models/item/sky_metal_ore.json",
           "src/main/resources/assets/gildedsky/models/block/sky_metal_ore.json",
+          "src/main/java/net/mcreator/gildedsky/world/features/ores/SkyMetalOreFeature.java",
+          "src/main/resources/data/gildedsky/forge/biome_modifier/sky_metal_ore_biome_modifier.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_metal_ore.json",
+          "src/main/resources/assets/gildedsky/blockstates/sky_metal_ore.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyMetalOreBlock.java"
         ]
       },
@@ -2369,15 +2371,16 @@
     {
       "name": "SkyMetalBlock",
       "type": "block",
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_block",
       "metadata": {
         "files": [
-          "src/main/resources/assets/gildedsky/models/item/sky_metal_block.json",
           "src/main/java/net/mcreator/gildedsky/block/SkyMetalBlockBlock.java",
           "src/main/resources/assets/gildedsky/models/block/sky_metal_block.json",
-          "src/main/resources/assets/gildedsky/blockstates/sky_metal_block.json"
+          "src/main/resources/assets/gildedsky/blockstates/sky_metal_block.json",
+          "src/main/resources/assets/gildedsky/models/item/sky_metal_block.json"
         ]
       },
       "path": "~/Blocks/Materials"
@@ -2385,6 +2388,7 @@
     {
       "name": "SkyMetalOreBlockRecipe",
       "type": "recipe",
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore_block_recipe",
@@ -2398,6 +2402,7 @@
     {
       "name": "SkyMetalBlockOreRecipe",
       "type": "recipe",
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_block_ore_recipe",
@@ -2411,6 +2416,7 @@
     {
       "name": "SkyMetalOreSmelting",
       "type": "recipe",
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_ore_smelting",
@@ -2424,6 +2430,7 @@
     {
       "name": "SkyMetalPickaxe",
       "type": "tool",
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_pickaxe",
@@ -2438,6 +2445,7 @@
     {
       "name": "SkyMetalAxe",
       "type": "tool",
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_axe",
@@ -2452,6 +2460,7 @@
     {
       "name": "SkyMetalSword",
       "type": "tool",
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_sword",
@@ -2466,6 +2475,7 @@
     {
       "name": "SkyMetalShovel",
       "type": "tool",
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_shovel",
@@ -2480,13 +2490,14 @@
     {
       "name": "SkyMetalHoe",
       "type": "tool",
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_hoe",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/gildedsky/item/SkyMetalHoeItem.java",
-          "src/main/resources/assets/gildedsky/models/item/sky_metal_hoe.json"
+          "src/main/resources/assets/gildedsky/models/item/sky_metal_hoe.json",
+          "src/main/java/net/mcreator/gildedsky/item/SkyMetalHoeItem.java"
         ]
       },
       "path": "~/Items"
@@ -2494,6 +2505,7 @@
     {
       "name": "SkyMetalPickaxeRecipe",
       "type": "recipe",
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_pickaxe_recipe",
@@ -2507,6 +2519,7 @@
     {
       "name": "SkyMetalAxeRecipe",
       "type": "recipe",
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_axe_recipe",
@@ -2520,6 +2533,7 @@
     {
       "name": "SkyMetalSwordRecipe",
       "type": "recipe",
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_sword_recipe",
@@ -2533,6 +2547,7 @@
     {
       "name": "SkyMetalShovelRecipe",
       "type": "recipe",
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_shovel_recipe",
@@ -2546,6 +2561,7 @@
     {
       "name": "SkyMetalHoeRecipe",
       "type": "recipe",
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_hoe_recipe",
@@ -2559,16 +2575,21 @@
     {
       "name": "SkyMetalArmor",
       "type": "armor",
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor",
       "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true,
         "files": [
           "src/main/java/net/mcreator/gildedsky/item/SkyMetalArmorItem.java",
+          "src/main/resources/assets/gildedsky/models/item/sky_metal_armor_helmet.json",
           "src/main/resources/assets/gildedsky/models/item/sky_metal_armor_chestplate.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_metal_armor_boots.json",
           "src/main/resources/assets/gildedsky/models/item/sky_metal_armor_leggings.json",
-          "src/main/resources/assets/gildedsky/models/item/sky_metal_armor_helmet.json"
+          "src/main/resources/assets/gildedsky/models/item/sky_metal_armor_boots.json"
         ]
       },
       "path": "~/Items"
@@ -2576,6 +2597,7 @@
     {
       "name": "SkyMetalArmorHelmetRecipe",
       "type": "recipe",
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_helmet_recipe",
@@ -2589,6 +2611,7 @@
     {
       "name": "SkyMetalArmorBodyRecipe",
       "type": "recipe",
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_body_recipe",
@@ -2602,6 +2625,7 @@
     {
       "name": "SkyMetalArmorLeggingsRecipe",
       "type": "recipe",
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_leggings_recipe",
@@ -2615,6 +2639,7 @@
     {
       "name": "SkyMetalArmorBootsRecipe",
       "type": "recipe",
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sky_metal_armor_boots_recipe",
@@ -2645,23 +2670,23 @@
       "block.gildedsky.sky_stone_bricks": "Gilded Stone",
       "block.gildedsky.grand_oak_leaves": "GrandOak Leaves",
       "item.gildedsky.sky_metal_armor_chestplate": "SkyMetal Chestplate",
-      "block.gildedsky.dark_sky_stone_brick_stair": "Dark Sky Stone Brick Stair",
-      "block.gildedsky.dark_sky_cobblestone_wall": "Dark Sky Cobblestone Wall",
-      "block.gildedsky.dark_sky_stone_slab": "Dark Sky Stone Slab",
-      "block.gildedsky.dark_sky_stone_brick_slab": "Dark Sky Stone Brick Slab",
+      "block.gildedsky.dark_sky_stone_brick_stair": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_cobblestone_wall": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_stone_slab": "Gilded Dark Stone",
+      "block.gildedsky.dark_sky_stone_brick_slab": "Gilded Dark Stone",
       "block.gildedsky.gilded_stone_brick_slab": "Gilded Stone",
       "block.gildedsky.grand_oak_log": "GrandOak Log",
       "block.gildedsky.gilded_stone_brick_stair": "Gilded Stone",
       "block.gildedsky.gilded_dark_cobblestone_slab": "Gilded Dark Cobblestone",
       "block.gildedsky.sky_metal_ore": "SkyMetal Ore",
       "item.gildedsky.sky_metal_hoe": "SkyMetal Hoe",
-      "block.gildedsky.dark_sky_stone_wall": "Dark Sky Stone Wall",
+      "block.gildedsky.dark_sky_stone_wall": "Gilded Dark Stone",
       "block.gildedsky.grand_oak_planks": "GrandOak Planks",
       "block.gildedsky.gilded_dark_cobblestone_wall": "Gilded Dark Cobblestone",
-      "block.gildedsky.dark_sky_stone_brick_wall": "Dark Sky Stone Brick Wall",
+      "block.gildedsky.dark_sky_stone_brick_wall": "Gilded Dark Stone",
       "block.gildedsky.gilded_stone": "Gilded Stone",
       "block.gildedsky.sky_cobblestone": "Gilded Cobblestone",
-      "block.gildedsky.dark_sky_stone_stair": "Dark Sky Stone Stair",
+      "block.gildedsky.dark_sky_stone_stair": "Gilded Dark Stone",
       "block.gildedsky.gilded_cobblestone_wall": "Gilded Cobblestone",
       "block.gildedsky.grand_oak_fence": "GrandOak Fence",
       "block.gildedsky.gilded_dark_stone": "Gilded Dark Stone",
@@ -2682,20 +2707,20 @@
       "block.gildedsky.grand_oak_pressure_plate": "GrandOak Pressure Plate",
       "block.gildedsky.sky_stone_brick_slab": "Gilded Stone",
       "block.gildedsky.gilded_dark_stone_slab": "Gilded Dark Stone",
-      "block.gildedsky.dark_sky_cobblestone_stair": "Gilded Dark Cobblestone Stair",
+      "block.gildedsky.dark_sky_cobblestone_stair": "Gilded Dark Cobblestone",
       "block.gildedsky.grand_oak_fence_gate": "GrandOak Fence Gate",
-      "block.gildedsky.dark_sky_cobblestone_slab": "Dark Sky Cobblestone Slab",
-      "block.gildedsky.dark_sky_stone": "Dark Sky Stone",
+      "block.gildedsky.dark_sky_cobblestone_slab": "Gilded Dark Cobblestone",
+      "block.gildedsky.dark_sky_stone": "Gilded Dark Stone",
       "block.gildedsky.gilded_dark_stone_stair": "Gilded Dark Stone",
       "block.gildedsky.grand_oak_wood": "GrandOak Wood",
       "block.gildedsky.sky_cobblestone_stair": "Gilded Cobblestone",
       "block.gildedsky.gilded_dark_stone_brick_stair": "Gilded Dark Stone",
       "block.gildedsky.sky_stone_stair": "Gilded Stone",
       "block.gildedsky.gilded_dark_stone_bricks": "Gilded Dark Stone",
-      "block.gildedsky.dark_sky_stone_bricks": "Dark Sky Stone Bricks",
+      "block.gildedsky.dark_sky_stone_bricks": "Gilded Dark Stone",
       "block.gildedsky.sky_cobblestone_wall": "Gilded Cobblestone",
       "item.gildedsky.sky_metal_axe": "SkyMetal Axe",
-      "block.gildedsky.dark_sky_cobblestone": "Dark Sky Cobblestone",
+      "block.gildedsky.dark_sky_cobblestone": "Gilded Dark Cobblestone",
       "block.gildedsky.gilded_stone_bricks": "Gilded Stone",
       "block.gildedsky.sky_stone_wall": "Gilded Stone",
       "block.gildedsky.gilded_stone_slab": "Gilded Stone",

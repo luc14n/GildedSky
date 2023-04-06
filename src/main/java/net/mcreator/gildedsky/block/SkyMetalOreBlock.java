@@ -20,7 +20,7 @@ import java.util.Collections;
 
 public class SkyMetalOreBlock extends Block {
 	public SkyMetalOreBlock() {
-		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(3.5999999999999996f, 5.785155024015763f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of(Material.STONE).sound(SoundType.STONE).strength(4.5f, 6.915809336112958f).requiresCorrectToolForDrops());
 	}
 
 	@Override
@@ -31,7 +31,7 @@ public class SkyMetalOreBlock extends Block {
 	@Override
 	public boolean canHarvestBlock(BlockState state, BlockGetter world, BlockPos pos, Player player) {
 		if (player.getInventory().getSelected().getItem() instanceof PickaxeItem tieredItem)
-			return tieredItem.getTier().getLevel() >= 2;
+			return tieredItem.getTier().getLevel() >= 3;
 		return false;
 	}
 
