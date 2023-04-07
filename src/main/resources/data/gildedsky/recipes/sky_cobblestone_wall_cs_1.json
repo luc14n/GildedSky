@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "gildedsky:sky_cobblestone"
-  },
-  "result": "gildedsky:sky_cobblestone_wall"
-}

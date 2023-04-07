@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "gildedsky:blocks/darkskystone",
-    "particle": "gildedsky:blocks/darkskystone"
-  },
-  "render_type": "cutout_mipped"
-}

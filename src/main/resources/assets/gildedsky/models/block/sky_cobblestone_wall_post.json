@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_wall_post",
-  "textures": {
-    "wall": "gildedsky:blocks/skycobble",
-    "particle": "gildedsky:blocks/skycobble"
-  },
-  "render_type": "cutout_mipped"
-}
