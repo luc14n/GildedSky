@@ -38,6 +38,8 @@ public class GildedSky {
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 
+	// This is a test to make sure everything works properly!
+
 	private void commonSetup(final FMLCommonSetupEvent event) {
 		
 	}
