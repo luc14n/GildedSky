@@ -7,7 +7,6 @@ import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.event.CreativeModeTabEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.common.Mod;
 
 public class ModCreativeModeTab {
 
@@ -17,6 +16,8 @@ public class ModCreativeModeTab {
     @SubscribeEvent
     public static void registerCreativeModeTabs(CreativeModeTabEvent.Register event) {
         GILDEDSKY_TAB = event.registerCreativeModeTab(new ResourceLocation(GildedSky.MOD_ID, "gildedsky_tab"),
-                builder -> builder.icon(() -> new ItemStack(ModItems.TESTITEM.get())).title(Component.literal("GildedSky Tab")).build());
+                builder -> builder.icon(
+                        () -> new ItemStack(ModItems.TESTITEM.get())).title(Component.literal("GildedSky Tab")).build()
+                );
     }
 }
