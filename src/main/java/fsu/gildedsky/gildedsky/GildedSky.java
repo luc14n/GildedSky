@@ -1,6 +1,8 @@
 package fsu.gildedsky.gildedsky;
 
 import com.mojang.logging.LogUtils;
+import fsu.gildedsky.gildedsky.item.ModCreativeModeTab;
+import fsu.gildedsky.gildedsky.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -34,14 +36,25 @@ public class GildedSky {
 
 	public GildedSky() {
 		IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		ModItems.register(modEventBus);
+
 		modEventBus.addListener(this::commonSetup);
 		MinecraftForge.EVENT_BUS.register(this);
+
+		modEventBus.addListener(this::addCreative);
 	}
 
 	// This is a test to make sure everything works properly!
 
 	private void commonSetup(final FMLCommonSetupEvent event) {
-		
+
+	}
+
+	private void addCreative(CreativeModeTabEvent.BuildContents event) {
+		if (event.getTab() == ModCreativeModeTab.GILDEDSKY_TAB) {
+			event.accept(ModItems.TESTITEM);
+		}
 	}
 
 	// You can use EventBusSubscriber to automatically register all static methods
@@ -50,7 +63,7 @@ public class GildedSky {
 	public static class ClientModEvents {
 		@SubscribeEvent
 		public static void onClientSetup(FMLClientSetupEvent event) {
-			
+
 		}
 	}
 }
