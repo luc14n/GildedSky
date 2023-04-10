@@ -17,7 +17,7 @@ public class ModCreativeModeTab {
     public static void registerCreativeModeTabs(CreativeModeTabEvent.Register event) {
         GILDEDSKY_TAB = event.registerCreativeModeTab(new ResourceLocation(GildedSky.MOD_ID, "gildedsky_tab"),
                 builder -> builder.icon(
-                        () -> new ItemStack(ModItems.TESTITEM.get())).title(Component.literal("GildedSky Tab")).build()
+                        () -> new ItemStack(ModItems.SKYMETAL_INGOT.get())).title(Component.literal("GildedSky Tab")).build()
                 );
     }
 }

@@ -14,6 +14,10 @@ import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
+// TODO: Make ModBlocks.java and import all of the blocks into the system.
+// TODO: Find and import crafting recipes, change crafting recipes for Gilded block to be block plus gold nuggets.
+// TODO: Find out how to test the game
+
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(GildedSky.MOD_ID)
 public class GildedSky {
@@ -39,7 +43,22 @@ public class GildedSky {
 
 	private void addCreative(CreativeModeTabEvent.BuildContents event) {
 		if (event.getTab() == ModCreativeModeTab.GILDEDSKY_TAB) {
+			// Test Items
 			event.accept(ModItems.TESTITEM);
+
+			// Sky Metal
+			event.accept(ModItems.SKYMETAL_INGOT);
+				// Tools && Weapons
+			event.accept(ModItems.SKYMETAL_PICKAXE);
+			event.accept(ModItems.SKYMETAL_AXE);
+			event.accept(ModItems.SKYMETAL_SHOVEL);
+			event.accept(ModItems.SKYMETAL_HOE);
+			event.accept(ModItems.SKYMETAL_SWROD);
+				// Armor
+			event.accept(ModItems.SKYMETAL_ARMOR_HELMET);
+			event.accept(ModItems.SKYMETAL_ARMOR_CHESTPLATE);
+			event.accept(ModItems.SKYMETAL_ARMOR_LEGGINGS);
+			event.accept(ModItems.SKYMETAL_ARMOR_BOOTS);
 		}
 	}
 
