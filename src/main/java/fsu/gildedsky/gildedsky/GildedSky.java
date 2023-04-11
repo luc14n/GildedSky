@@ -18,7 +18,6 @@ import org.slf4j.Logger;
 // TODO: Find and import crafting recipes, change crafting recipes for Gilded block to be block plus gold nuggets.
 // TODO: Find out how to test the game
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod(GildedSky.MOD_ID)
 public class GildedSky {
 	public static final String MOD_ID = "gildedsky";
