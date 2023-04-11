@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 2,
-  "ingredient": {
-    "item": "gildedsky:sky_stone"
-  },
-  "result": "gildedsky:sky_stone_slab"
-}

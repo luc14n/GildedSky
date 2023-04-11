@@ -1,9 +1,9 @@
 {
   "parent": "block/cube_bottom_top",
   "textures": {
-    "bottom": "gildedsky:blocks/grandoak_planks",
-    "top": "gildedsky:blocks/grandoak_planks",
-    "side": "gildedsky:blocks/grandoak_planks"
+    "bottom": "gildedsky:block/grandoak_planks",
+    "top": "gildedsky:block/grandoak_planks",
+    "side": "gildedsky:block/grandoak_planks"
   },
   "render_type": "solid"
 }

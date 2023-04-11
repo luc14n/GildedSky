@@ -1,7 +1,7 @@
 {
   "parent": "block/button_pressed",
   "textures": {
-    "texture": "gildedsky:blocks/grandoak_planks"
+    "texture": "gildedsky:block/grandoak_planks"
   },
   "render_type": "solid"
 }

@@ -1,9 +1,9 @@
 {
   "parent": "block/inner_stairs",
   "textures": {
-    "bottom": "gildedsky:blocks/gildedcobblestone",
-    "top": "gildedsky:blocks/gildedcobblestone",
-    "side": "gildedsky:blocks/gildedcobblestone"
+    "bottom": "gildedsky:block/gildedcobblestone",
+    "top": "gildedsky:block/gildedcobblestone",
+    "side": "gildedsky:block/gildedcobblestone"
   },
   "render_type": "cutout_mipped"
 }

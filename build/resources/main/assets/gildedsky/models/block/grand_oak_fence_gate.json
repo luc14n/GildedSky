@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_fence_gate",
-  "textures": {
-    "texture": "gildedsky:blocks/grandoak_planks"
-  },
-  "render_type": "solid"
-}

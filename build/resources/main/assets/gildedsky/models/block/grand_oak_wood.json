@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "gildedsky:blocks/grandoak_log_side",
-    "particle": "gildedsky:blocks/grandoak_log_side"
-  },
-  "render_type": "solid"
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "gildedsky:blocks/purple_carrots_stage2",
-    "particle": "gildedsky:blocks/purple_carrots_stage2"
-  },
-  "render_type": "cutout"
-}

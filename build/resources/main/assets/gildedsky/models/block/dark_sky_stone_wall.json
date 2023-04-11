@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_wall_side",
-  "textures": {
-    "wall": "gildedsky:blocks/darkskystone",
-    "particle": "gildedsky:blocks/darkskystone"
-  },
-  "render_type": "solid"
-}

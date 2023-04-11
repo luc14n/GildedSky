@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "gildedsky:blocks/skymetal_ore_block",
-    "particle": "gildedsky:blocks/skymetal_ore_block"
-  },
-  "render_type": "solid"
-}

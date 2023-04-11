@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "gildedsky:items/purple_carrot"
+    "layer0": "gildedsky:item/purple_carrot"
   }
 }

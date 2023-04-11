@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "gildedsky:blocks/grandoak_leaves",
-    "particle": "gildedsky:blocks/grandoak_leaves"
-  }
-}
