@@ -18,7 +18,7 @@ public class ModCreativeModeTab {
     public static void registerCreativeModeTabs(CreativeModeTabEvent.Register event) {
         ModCreativeModeTab.GILDEDSKY_TAB = event.registerCreativeModeTab(new ResourceLocation(GildedSky.MOD_ID, "gildedsky_tab"),
                 builder -> builder.title(Component.literal("GildedSky Tab")).icon(
-                        () -> new ItemStack(ModItems.GRAND_OAK_LOG.get())).displayItems((params, output, i_dont_know_what_this_variable_is) -> {
+                        () -> new ItemStack(ModItems.SKY_METAL_INGOT.get())).displayItems((params, output, i_dont_know_what_this_variable_is) -> {
                     output.accept(ModItems.SKY_STONE.get());
                     output.accept(ModItems.SKY_STONE_SLAB.get());
                     output.accept(ModItems.SKY_STONE_STAIR.get());
