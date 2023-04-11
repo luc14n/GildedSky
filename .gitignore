@@ -1,6 +1,23 @@
-*
-!*/
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
 
-!.gitignore
-!README.md
-!src/**
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+gradle
+
+# other
+eclipse
+run

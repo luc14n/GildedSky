@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "gildedsky:items/skymetal_axe"
+    "layer0": "gildedsky:item/skymetal_axe"
   }
 }

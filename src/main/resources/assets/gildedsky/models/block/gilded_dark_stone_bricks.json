@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "gildedsky:blocks/gildeddarkskystonebricks",
-    "particle": "gildedsky:blocks/gildeddarkskystonebricks"
+    "all": "gildedsky:block/gildeddarkskystonebricks",
+    "particle": "gildedsky:block/gildeddarkskystonebricks"
   },
   "render_type": "cutout_mipped"
 }

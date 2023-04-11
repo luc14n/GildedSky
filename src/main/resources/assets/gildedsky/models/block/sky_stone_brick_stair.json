@@ -1,9 +1,9 @@
 {
   "parent": "block/stairs",
   "textures": {
-    "bottom": "gildedsky:blocks/skystonebricks",
-    "top": "gildedsky:blocks/skystonebricks",
-    "side": "gildedsky:blocks/skystonebricks"
+    "bottom": "gildedsky:block/skystonebricks",
+    "top": "gildedsky:block/skystonebricks",
+    "side": "gildedsky:block/skystonebricks"
   },
   "render_type": "cutout_mipped"
 }
