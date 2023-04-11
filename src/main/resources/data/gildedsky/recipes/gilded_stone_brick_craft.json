@@ -1,0 +1,26 @@
+{
+  "group": "blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:gilded_stone"
+    },
+    "1": {
+      "item": "gildedsky:gilded_stone"
+    },
+    "2": {
+      "item": "gildedsky:gilded_stone"
+    },
+    "3": {
+      "item": "gildedsky:gilded_stone"
+    }
+  },
+  "result": {
+    "item": "gildedsky:gilded_stone_bricks",
+    "count": 4
+  }
+}

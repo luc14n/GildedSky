@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "gildedsky:items/skymetal_leggings"
+    "layer0": "gildedsky:item/skymetal_leggings"
   }
 }

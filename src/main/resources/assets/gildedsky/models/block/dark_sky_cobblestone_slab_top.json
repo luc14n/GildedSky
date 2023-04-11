@@ -1,9 +1,9 @@
 {
   "parent": "block/slab_top",
   "textures": {
-    "bottom": "gildedsky:blocks/darkskycobble",
-    "top": "gildedsky:blocks/darkskycobble",
-    "side": "gildedsky:blocks/darkskycobble"
+    "bottom": "gildedsky:block/darkskycobble",
+    "top": "gildedsky:block/darkskycobble",
+    "side": "gildedsky:block/darkskycobble"
   },
   "render_type": "cutout_mipped"
 }

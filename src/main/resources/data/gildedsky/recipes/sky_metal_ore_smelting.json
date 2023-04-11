@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.84,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "gildedsky:sky_metal_ore"
+  },
+  "result": "gildedsky:sky_metal_ingot"
+}

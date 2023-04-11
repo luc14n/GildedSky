@@ -1,8 +1,8 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "gildedsky:blocks/shimmeringdust_ore",
-    "particle": "gildedsky:blocks/shimmeringdust_ore"
+    "all": "gildedsky:block/shimmeringdust_ore",
+    "particle": "gildedsky:block/shimmeringdust_ore"
   },
   "render_type": "solid"
 }

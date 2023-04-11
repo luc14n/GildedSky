@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "gildedsky:blocks/grandoak_log_top",
-    "up": "gildedsky:blocks/grandoak_log_top",
-    "north": "gildedsky:blocks/grandoak_log_side",
-    "east": "gildedsky:blocks/grandoak_log_side",
-    "south": "gildedsky:blocks/grandoak_log_side",
-    "west": "gildedsky:blocks/grandoak_log_side",
-    "particle": "gildedsky:blocks/grandoak_log_top"
+    "down": "gildedsky:block/grandoak_log_top",
+    "up": "gildedsky:block/grandoak_log_top",
+    "north": "gildedsky:block/grandoak_log_side",
+    "east": "gildedsky:block/grandoak_log_side",
+    "south": "gildedsky:block/grandoak_log_side",
+    "west": "gildedsky:block/grandoak_log_side",
+    "particle": "gildedsky:block/grandoak_log_top"
   },
   "render_type": "solid"
 }

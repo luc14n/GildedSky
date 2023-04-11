@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "gildedsky:block/sky_stone_brick_slab"
+    },
+    "type=top": {
+      "model": "gildedsky:block/sky_stone_brick_slab_top"
+    },
+    "type=double": {
+      "model": "gildedsky:block/sky_stone_brick_slab_full"
+    }
+  }
+}
