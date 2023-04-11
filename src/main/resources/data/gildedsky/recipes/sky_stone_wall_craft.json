@@ -1,0 +1,32 @@
+{
+  "group": "blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:sky_stone"
+    },
+    "1": {
+      "item": "gildedsky:sky_stone"
+    },
+    "2": {
+      "item": "gildedsky:sky_stone"
+    },
+    "3": {
+      "item": "gildedsky:sky_stone"
+    },
+    "4": {
+      "item": "gildedsky:sky_stone"
+    },
+    "5": {
+      "item": "gildedsky:sky_stone"
+    }
+  },
+  "result": {
+    "item": "gildedsky:sky_stone_wall",
+    "count": 6
+  }
+}

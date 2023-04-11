@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:sky_metal_ingot"
+    },
+    "2": {
+      "item": "gildedsky:sky_metal_ingot"
+    },
+    "3": {
+      "item": "gildedsky:sky_metal_ingot"
+    },
+    "5": {
+      "item": "gildedsky:sky_metal_ingot"
+    }
+  },
+  "result": {
+    "item": "gildedsky:sky_metal_armor_boots",
+    "count": 1
+  }
+}
