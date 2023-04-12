@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gildedsky:sky_metal_block"
+    }
+  ],
+  "result": {
+    "item": "gildedsky:sky_metal_ingot",
+    "count": 9
+  }
+}

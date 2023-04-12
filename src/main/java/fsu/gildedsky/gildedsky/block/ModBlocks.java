@@ -72,7 +72,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> GRAND_OAK_BUTTON = REGISTRY.register("grand_oak_button", () -> new GrandOakButtonBlock());
     public static final RegistryObject<Block> SKY_METAL_ORE = REGISTRY.register("sky_metal_ore", () -> new SkyMetalOreBlock());
     public static final RegistryObject<Block> SKY_METAL_BLOCK = REGISTRY.register("sky_metal_block", () -> new SkyMetalBlockBlock());
-
+    public static final RegistryObject<Block> SHIMMERING_DUST_ORE = REGISTRY.register("shimmering_dust_ore", () -> new ShimmeringDustOreBlock());
+    public static final RegistryObject<Block> SHIMMERING_DUST_BLOCK = REGISTRY.register("shimmering_dust_block", () -> new ShimmeringDustBlockBlock());
     public static final RegistryObject<Block> PURPLE_CARROT_BLOCK = REGISTRY.register("purple_carrot_block", () -> new PurpleCarrotBlock(BlockBehaviour.Properties.copy(Blocks.CARROTS)));
 
     public static void register(IEventBus eventBus) {

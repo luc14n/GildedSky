@@ -84,8 +84,12 @@ public class ModItems {
     public static final RegistryObject<Item> SKY_METAL_ARMOR_LEGGINGS = ITEMS.register("sky_metal_armor_leggings", () -> new SkyMetalArmorItem.Leggings());
     public static final RegistryObject<Item> SKY_METAL_ARMOR_BOOTS = ITEMS.register("sky_metal_armor_boots", () -> new SkyMetalArmorItem.Boots());
     public static final RegistryObject<Item> SKY_METAL_INGOT = ITEMS.register("sky_metal_ingot", () -> new SkyMetalIngotItem());
+    public static final RegistryObject<Item> SHIMMERING_DUST_ORE = block(ModBlocks.SHIMMERING_DUST_ORE);
+    public static final RegistryObject<Item> SHIMMERING_DUST_BLOCK = block(ModBlocks.SHIMMERING_DUST_BLOCK);
+    public static final RegistryObject<Item> SHIMMERING_DUST_DUST = ITEMS.register("shimmering_dust_dust", () -> new ShimmeringDustDustItem());
 
     public static final RegistryObject<Item> PURPLE_CARROT = ITEMS.register("purple_carrot", () -> new PurpleCarrotItem());
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
