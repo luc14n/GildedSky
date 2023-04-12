@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "1": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "2": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "3": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "4": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "5": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "6": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "7": {
+      "item": "gildedsky:shimmering_dust_dust"
+    },
+    "8": {
+      "item": "gildedsky:shimmering_dust_dust"
+    }
+  },
+  "result": {
+    "item": "gildedsky:shimmering_dust_block",
+    "count": 1
+  }
+}

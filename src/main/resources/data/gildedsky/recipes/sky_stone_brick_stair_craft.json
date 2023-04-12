@@ -1,0 +1,33 @@
+{
+  "group": "blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 45",
+    "678"
+  ],
+  "key": {
+    "2": {
+      "item": "gildedsky:sky_stone_bricks"
+    },
+    "4": {
+      "item": "gildedsky:sky_stone_bricks"
+    },
+    "5": {
+      "item": "gildedsky:sky_stone_bricks"
+    },
+    "6": {
+      "item": "gildedsky:sky_stone_bricks"
+    },
+    "7": {
+      "item": "gildedsky:sky_stone_bricks"
+    },
+    "8": {
+      "item": "gildedsky:sky_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "gildedsky:sky_stone_brick_stair",
+    "count": 4
+  }
+}
