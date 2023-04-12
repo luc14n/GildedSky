@@ -70,5 +70,8 @@
   "block.gildedsky.gilded_stone_slab": "Gilded Stone Slab",
   "block.gildedsky.grand_oak_slab": "GrandOak Slab",
   "block.gildedsky.sky_metal_block": "Block of SkyMetal",
+  "block.gildedsky.shimmering_dust_block": "Shimmering Dust Block",
+  "block.gildedsky.shimmering_dust_ore": "Shimmering Dust Ore",
+  "item.gildedsky.shimmering_dust_dust": "Shimmering Dust Dust",
   "item.gildedsky.purple_carrot": "Purple Carrot"
 }
