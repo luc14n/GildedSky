@@ -1,0 +1,12 @@
+{
+  "type": "gildedsky:sky",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "settings": "gildedsky:sky",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "preset": "minecraft:overworld"
+    }
+  }
+}
