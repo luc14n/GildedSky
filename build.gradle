@@ -1,8 +1,28 @@
+buildscript {
+    repositories {
+        maven { url = 'https://repo.spongepowered.org/repository/maven-public/' }
+    }
+    dependencies {
+        classpath group: 'org.spongepowered', name: 'mixingradle', version: '0.7-SNAPSHOT'
+    }
+}
+
 plugins {
     id 'eclipse'
     id 'maven-publish'
     id 'net.minecraftforge.gradle' version '5.1.+'
 }
+
+
+apply plugin: 'org.spongepowered.mixin'
+
+mixin {
+    add sourceSets.main, "gildedsky.refmap.json"
+
+    config "gildedsky.mixins.json"
+
+}
+
 
 version = '0.0.01A-1.19.3'
 group = 'fsu.gildedsky.gildedsky'
@@ -18,6 +38,8 @@ minecraft {
     runs {
         client {
             workingDirectory project.file('run')
+
+            arg "-mixin.config=gildedsky.mixins.json"
 
             property 'forge.logging.markers', 'REGISTRIES'
 
@@ -84,14 +106,11 @@ minecraft {
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
-repositories {
-
-}
-
 dependencies {
 
     minecraft 'net.minecraftforge:forge:1.19.3-44.1.0'
 
+    annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }
 
 jar {

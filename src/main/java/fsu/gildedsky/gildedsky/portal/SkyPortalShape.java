@@ -150,7 +150,7 @@ public class SkyPortalShape {
 	}
 
 	private static boolean isEmpty(BlockState p_77718_) {
-		return p_77718_.isAir() || p_77718_.getBlock() == ModBlocks.SKY_PORTAL_BLOCK.get();
+		return p_77718_.isAir() || p_77718_.getBlock() == ModBlocks.SKY_PORTAL_BLOCK.get() || p_77718_.getBlock() == Blocks.FIRE;
 	}
 
 	public boolean isValid() {
