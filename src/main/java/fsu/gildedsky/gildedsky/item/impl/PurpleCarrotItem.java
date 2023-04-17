@@ -1,6 +1,7 @@
 package fsu.gildedsky.gildedsky.item.impl;
 
 import fsu.gildedsky.gildedsky.block.ModBlocks;
+import fsu.gildedsky.gildedsky.block.impl.SkyPortalBlock;
 import net.minecraft.core.BlockPos;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.InteractionHand;
@@ -10,6 +11,7 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.*;
 import net.minecraft.world.item.context.UseOnContext;
+import net.minecraft.world.level.Level;
 import net.minecraft.world.level.LevelAccessor;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -45,5 +47,27 @@ public class PurpleCarrotItem extends Item {
                 }
             }
         return super.onItemUseFirst(stack,context);
+    }
+    //TODO move to different item
+    @Override
+    public InteractionResult useOn(UseOnContext context) {
+        Player entity = context.getPlayer();
+        BlockPos pos = context.getClickedPos().relative(context.getClickedFace());
+        ItemStack itemstack = context.getItemInHand();
+        Level world = context.getLevel();
+        if (!entity.mayUseItemAt(pos, context.getClickedFace(), itemstack)) {
+            return InteractionResult.FAIL;
+        } else {
+            int x = pos.getX();
+            int y = pos.getY();
+            int z = pos.getZ();
+            boolean success = false;
+            if (world.isEmptyBlock(pos)) {
+                SkyPortalBlock.portalSpawn(world, pos);
+                itemstack.hurtAndBreak(1, entity, c -> c.broadcastBreakEvent(context.getHand()));
+                success = true;
+            }
+            return success ? InteractionResult.SUCCESS : InteractionResult.FAIL;
+        }
     }
 }
