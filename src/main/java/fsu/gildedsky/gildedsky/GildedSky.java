@@ -22,13 +22,12 @@ import org.slf4j.Logger;
 
 import java.util.Map;
 
-// TODO: Change ShimmeringDust JSON files to match current filepaths
-
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(GildedSky.MOD_ID)
 public class GildedSky {
 	public static final String MOD_ID = "gildedsky";
 	private static final Logger LOGGER = LogUtils.getLogger();
+
 
 	public GildedSky() {
 		IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();

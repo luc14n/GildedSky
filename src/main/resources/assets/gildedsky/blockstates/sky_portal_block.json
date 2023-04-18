@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "gildedsky:block/sky_portal_block_ns"
+    },
+    "axis=z": {
+      "model": "gildedsky:block/sky_portal_block_ew"
+    },
+    "axis=y": {
+      "model": "gildedsky:block/sky_portal_block_flat"
+    }
+  }
+}
