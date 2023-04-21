@@ -2,10 +2,10 @@ package fsu.gildedsky.gildedsky;
 
 import com.mojang.logging.LogUtils;
 import fsu.gildedsky.gildedsky.block.ModBlocks;
-import fsu.gildedsky.gildedsky.entity.ExampleEntity;
-import fsu.gildedsky.gildedsky.entity.ExampleEntityModel;
-import fsu.gildedsky.gildedsky.entity.ExampleEntityRenderer;
-import fsu.gildedsky.gildedsky.entity.ModEntities;
+//import fsu.gildedsky.gildedsky.entity.ExampleEntity;
+//import fsu.gildedsky.gildedsky.entity.ExampleEntityModel;
+//import fsu.gildedsky.gildedsky.entity.ExampleEntityRenderer;
+// import fsu.gildedsky.gildedsky.entity.ModEntities;
 import fsu.gildedsky.gildedsky.item.ModCreativeModeTab;
 import fsu.gildedsky.gildedsky.item.ModItems;
 import net.minecraft.client.color.block.BlockColor;
