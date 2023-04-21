@@ -91,6 +91,10 @@ public class ModCreativeModeTab {
                     output.accept(ModItems.SHIMMERING_DUST_ORE.get());
                     output.accept(ModItems.SHIMMERING_DUST_BLOCK.get());
                     output.accept(ModItems.SHIMMERING_DUST_DUST.get());
+                    output.accept(ModItems.SKY_DIRT.get());
+                    output.accept(ModItems.SKY_GRASS_BLOCK.get());
+                    //output.accept(ModItems.EXAMPLE_ENTITY_SPAWN_EGG.get());
+                    //output.accept(ModItems.SKY_PORTAL_BLOCK.get());
                 }));
     }
 

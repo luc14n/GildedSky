@@ -2,9 +2,11 @@ package fsu.gildedsky.gildedsky.item;
 
 import fsu.gildedsky.gildedsky.GildedSky;
 import fsu.gildedsky.gildedsky.block.ModBlocks;
+import fsu.gildedsky.gildedsky.entity.ModEntities;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
+import net.minecraftforge.common.ForgeSpawnEggItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -89,6 +91,13 @@ public class ModItems {
     public static final RegistryObject<Item> SHIMMERING_DUST_DUST = ITEMS.register("shimmering_dust_dust", () -> new ShimmeringDustDustItem());
 
     public static final RegistryObject<Item> PURPLE_CARROT = ITEMS.register("purple_carrot", () -> new PurpleCarrotItem());
+
+    public static final RegistryObject<Item> SKY_DIRT = block(ModBlocks.SKY_DIRT);
+    public static final RegistryObject<Item> SKY_GRASS_BLOCK = block(ModBlocks.SKY_GRASS_BLOCK);
+//
+//
+//    public static final RegistryObject<ForgeSpawnEggItem> EXAMPLE_ENTITY_SPAWN_EGG = ITEMS.register("example_entity_spawn_egg",
+//            () -> new ForgeSpawnEggItem(ModEntities.EXAMPLE, 0xFF55AA, 0x27DA9F, new Item.Properties().stacksTo(16)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

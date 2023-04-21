@@ -80,6 +80,10 @@ public class ModBlocks {
     public static final RegistryObject<Block> PURPLE_CARROT_BLOCK = REGISTRY.register("purple_carrot_block", () -> new PurpleCarrotBlock(BlockBehaviour.Properties.copy(Blocks.CARROTS)));
 
     public static final RegistryObject<Block> SKY_PORTAL_BLOCK = REGISTRY.register("sky_portal_block", () -> new SkyPortalBlock());;
+
+    public static final RegistryObject<Block> SKY_DIRT = REGISTRY.register("sky_dirt", () -> new SkyDirtBlock());;
+    public static final RegistryObject<Block> SKY_GRASS_BLOCK = REGISTRY.register("sky_grass_block", () -> new SkyGrassBlockBlock());;
+
     public static void register(IEventBus eventBus) {
         REGISTRY.register(eventBus);
     }
