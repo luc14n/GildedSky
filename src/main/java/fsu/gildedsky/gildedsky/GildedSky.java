@@ -84,7 +84,7 @@ public class GildedSky {
 			event.register(new BlockColor() {
 				@Override
 				public int getColor(BlockState p_92567_, @Nullable BlockAndTintGetter p_92568_, @Nullable BlockPos p_92569_, int p_92570_) {
-					return new Color(255, 230, 0).getRGB();
+					return new Color(0, 239, 255).getRGB();
 				}
 			},ModBlocks.SKY_PORTAL_BLOCK.get());
 		}
