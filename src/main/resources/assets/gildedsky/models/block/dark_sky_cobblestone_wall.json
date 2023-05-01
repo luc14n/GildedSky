@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "gildedsky:block/darkskycobble",
+    "particle": "gildedsky:block/darkskycobble"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gildedsky:block/skydirtside",
+    "up": "gildedsky:block/skygrass",
+    "north": "gildedsky:block/skygrass",
+    "east": "gildedsky:block/skygrass",
+    "south": "gildedsky:block/skygrass",
+    "west": "gildedsky:block/skygrass",
+    "particle": "gildedsky:block/skydirtside"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "gildedsky:test_sky",
+  "features": "gildedsky:ore_mine",
+  "step": "underground_ores"
+}

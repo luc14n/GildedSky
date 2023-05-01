@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "gildedsky:block/grand_oak_pressure_plate"
+    },
+    "powered=true": {
+      "model": "gildedsky:block/grand_oak_pressure_plate_down"
+    }
+  }
+}

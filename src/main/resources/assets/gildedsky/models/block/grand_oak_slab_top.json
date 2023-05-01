@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "gildedsky:block/grandoak_planks",
+    "top": "gildedsky:block/grandoak_planks",
+    "side": "gildedsky:block/grandoak_planks"
+  },
+  "render_type": "solid"
+}

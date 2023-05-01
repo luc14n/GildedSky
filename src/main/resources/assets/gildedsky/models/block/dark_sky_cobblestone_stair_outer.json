@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "gildedsky:block/darkskycobble",
+    "top": "gildedsky:block/darkskycobble",
+    "side": "gildedsky:block/darkskycobble"
+  },
+  "render_type": "cutout_mipped"
+}

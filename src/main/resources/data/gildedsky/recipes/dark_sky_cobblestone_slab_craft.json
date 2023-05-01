@@ -1,0 +1,22 @@
+{
+  "group": "blocks",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "gildedsky:dark_sky_cobblestone"
+    },
+    "1": {
+      "item": "gildedsky:dark_sky_cobblestone"
+    },
+    "2": {
+      "item": "gildedsky:dark_sky_cobblestone"
+    }
+  },
+  "result": {
+    "item": "gildedsky:dark_sky_cobblestone_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "gildedsky:sky",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 0,
+    "settings": "gildedsky:sky",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "gildedsky:test_sky"
+    }
+
+  }
+}

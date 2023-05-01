@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "gildedsky:block/gildeddarkskystone",
+    "particle": "gildedsky:block/gildeddarkskystone"
+  },
+  "render_type": "cutout_mipped"
+}

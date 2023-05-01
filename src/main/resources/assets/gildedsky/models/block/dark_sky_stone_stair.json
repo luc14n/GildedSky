@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "gildedsky:block/darkskystone",
+    "top": "gildedsky:block/darkskystone",
+    "side": "gildedsky:block/darkskystone"
+  },
+  "render_type": "cutout_mipped"
+}

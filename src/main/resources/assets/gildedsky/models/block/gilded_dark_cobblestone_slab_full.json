@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "gildedsky:block/gildeddarkcobblestone",
+    "top": "gildedsky:block/gildeddarkcobblestone",
+    "side": "gildedsky:block/gildeddarkcobblestone"
+  },
+  "render_type": "cutout_mipped"
+}
