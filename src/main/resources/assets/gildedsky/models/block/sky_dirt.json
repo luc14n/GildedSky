@@ -1,13 +1,13 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "gildedsky:block/skydirtside",
-    "up": "gildedsky:block/skydirtside",
-    "north": "gildedsky:block/skydirtside",
-    "east": "gildedsky:block/skydirtside",
-    "south": "gildedsky:block/skydirtside",
-    "west": "gildedsky:block/skydirtside",
-    "particle": "gildedsky:block/skydirtside"
+    "down": "gildedsky:blocks/skydirtside",
+    "up": "gildedsky:blocks/skydirtside",
+    "north": "gildedsky:blocks/skydirtside",
+    "east": "gildedsky:blocks/skydirtside",
+    "south": "gildedsky:blocks/skydirtside",
+    "west": "gildedsky:blocks/skydirtside",
+    "particle": "gildedsky:blocks/skydirtside"
   },
   "render_type": "solid"
 }

@@ -2,38 +2,30 @@ package fsu.gildedsky.gildedsky;
 
 import com.mojang.logging.LogUtils;
 import fsu.gildedsky.gildedsky.block.ModBlocks;
-//import fsu.gildedsky.gildedsky.entity.ExampleEntity;
-//import fsu.gildedsky.gildedsky.entity.ExampleEntityModel;
-//import fsu.gildedsky.gildedsky.entity.ExampleEntityRenderer;
-// import fsu.gildedsky.gildedsky.entity.ModEntities;
 import fsu.gildedsky.gildedsky.item.ModCreativeModeTab;
 import fsu.gildedsky.gildedsky.item.ModItems;
 import net.minecraft.client.color.block.BlockColor;
 import net.minecraft.core.BlockPos;
-import net.minecraft.network.chat.Component;
-import net.minecraft.resources.ResourceLocation;
-import net.minecraft.world.item.*;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.level.BlockAndTintGetter;
-import net.minecraft.world.level.block.Blocks;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraftforge.api.distmarker.Dist;
-import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.client.event.RegisterColorHandlersEvent;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.CreativeModeTabEvent;
-import net.minecraftforge.event.entity.EntityAttributeCreationEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.minecraftforge.registries.RegistryObject;
 import org.jetbrains.annotations.Nullable;
 import org.slf4j.Logger;
 
 import java.awt.*;
-import java.util.Map;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(GildedSky.MOD_ID)
