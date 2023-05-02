@@ -27,6 +27,13 @@ A mod created to give a vanilla plus experience, adding new foods, animals, mobs
     side="BOTH"
 
 [[dependencies.gildedsky]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[4.0.6]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.gildedsky]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.19.3,1.20)"

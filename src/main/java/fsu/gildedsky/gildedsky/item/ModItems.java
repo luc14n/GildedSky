@@ -3,6 +3,7 @@ package fsu.gildedsky.gildedsky.item;
 import fsu.gildedsky.gildedsky.GildedSky;
 import fsu.gildedsky.gildedsky.block.ModBlocks;
 import fsu.gildedsky.gildedsky.entity.ModEntities;
+import fsu.gildedsky.gildedsky.item.impl.*;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -11,8 +12,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-
-import fsu.gildedsky.gildedsky.item.impl.*;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, GildedSky.MOD_ID);
@@ -89,11 +88,10 @@ public class ModItems {
     public static final RegistryObject<Item> SHIMMERING_DUST_ORE = block(ModBlocks.SHIMMERING_DUST_ORE);
     public static final RegistryObject<Item> SHIMMERING_DUST_BLOCK = block(ModBlocks.SHIMMERING_DUST_BLOCK);
     public static final RegistryObject<Item> SHIMMERING_DUST_DUST = ITEMS.register("shimmering_dust_dust", () -> new ShimmeringDustDustItem());
-
     public static final RegistryObject<Item> PURPLE_CARROT = ITEMS.register("purple_carrot", () -> new PurpleCarrotItem());
-
     public static final RegistryObject<Item> SKY_DIRT = block(ModBlocks.SKY_DIRT);
     public static final RegistryObject<Item> SKY_GRASS_BLOCK = block(ModBlocks.SKY_GRASS_BLOCK);
+    public static final RegistryObject<Item> HOBDRAGON_SPAWN_EGG = ITEMS.register("hobdragon_spawn_egg", () -> new ForgeSpawnEggItem(ModEntities.HOBDRAGON, 0xC65640, 0x101010, new Item.Properties()));
 //
 //
 //    public static final RegistryObject<ForgeSpawnEggItem> EXAMPLE_ENTITY_SPAWN_EGG = ITEMS.register("example_entity_spawn_egg",

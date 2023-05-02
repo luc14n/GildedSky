@@ -2,9 +2,12 @@ package fsu.gildedsky.gildedsky;
 
 import com.mojang.logging.LogUtils;
 import fsu.gildedsky.gildedsky.block.ModBlocks;
+import fsu.gildedsky.gildedsky.entity.ModEntities;
+import fsu.gildedsky.gildedsky.entity.client.HobDragonRenderer;
 import fsu.gildedsky.gildedsky.item.ModCreativeModeTab;
 import fsu.gildedsky.gildedsky.item.ModItems;
 import net.minecraft.client.color.block.BlockColor;
+import net.minecraft.client.renderer.entity.EntityRenderers;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -13,6 +16,7 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.level.BlockAndTintGetter;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.client.event.EntityRenderersEvent;
 import net.minecraftforge.client.event.RegisterColorHandlersEvent;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.CreativeModeTabEvent;
@@ -41,7 +45,7 @@ public class GildedSky {
 
 		ModBlocks.register(modEventBus);
 
-//		ModEntities.register(modEventBus);
+		ModEntities.register(modEventBus);
 //
 
 		modEventBus.addListener(this::addCreative);
@@ -68,7 +72,7 @@ public class GildedSky {
 	public static class ClientModEvents {
 		@SubscribeEvent
 		public static void onClientSetup(FMLClientSetupEvent event) {
-
+			EntityRenderers.register(ModEntities.HOBDRAGON.get(), HobDragonRenderer::new);
 		}
 
 		@SubscribeEvent
